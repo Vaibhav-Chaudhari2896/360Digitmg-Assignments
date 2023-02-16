@@ -1,0 +1,11 @@
+PatientID,Followup,Eventtype,Scenario
+John,1,1,A
+Jess,2,1,A
+Ann,3,0,A
+Mary,4,0,A
+Frank,5,1,A
+Steven,6,1,A
+Andy,6.2,1,A
+Elizabeth,8,0,A
+Joe,9,1,A
+Kate,10,0,A

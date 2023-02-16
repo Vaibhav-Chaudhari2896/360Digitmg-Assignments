@@ -1,0 +1,1001 @@
+checking,duration,history,purpose,amount,savings,employed,installp,marital,coapp,resident,property,age,housing,existcr,job,depends,telephon,foreign,good_bad
+< 0 DM,6,Dues Remain,Television,1169,Unknown,>7 Years,4,Male M/D,None,4,Real Estate,67,Own,2,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,48,Existing paid,Television,5951,< 100 DM ,1-4 Years,2,Female M/D,None,2,Real Estate,22,Own,1,Skilled,1,None,No,bad
+No Acc,12,Dues Remain,Education,2096,< 100 DM ,4-7 Years,2,Male M/D,None,3,Real Estate,49,Own,1,Unskilled,2,None,No,good
+< 0 DM,42,Existing paid,Furniture,7882,< 100 DM ,4-7 Years,2,Male M/D,Guarantor,4,Building society,45,Free,1,Skilled,2,None,No,good
+< 0 DM,24,Delayed,New Car,4870,< 100 DM ,1-4 Years,3,Male M/D,None,4,Unknown,53,Free,2,Skilled,2,None,No,bad
+No Acc,36,Existing paid,Education,9055,Unknown,1-4 Years,2,Male M/D,None,4,Unknown,35,Free,1,Unskilled,2,Registered,No,good
+No Acc,24,Existing paid,Furniture,2835,500-1000 DM,>7 Years,3,Male M/D,None,4,Building society,53,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,36,Existing paid,Old Car,6948,< 100 DM ,1-4 Years,2,Male M/D,None,2,Others,35,Rent,1,Highly Qualified,1,Registered,No,good
+No Acc,12,Existing paid,Television,3059,>1000 DM,4-7 Years,2,Female S,None,4,Real Estate,61,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,30,Dues Remain,New Car,5234,< 100 DM ,Unemployed,4,Male S,None,2,Others,28,Own,2,Highly Qualified,1,None,No,bad
+0 <= ... < 200 DM,12,Existing paid,New Car,1295,< 100 DM ,1 Year,3,Female M/D,None,1,Others,25,Rent,1,Skilled,1,None,No,bad
+< 0 DM,48,Existing paid,Business,4308,< 100 DM ,1 Year,3,Female M/D,None,4,Building society,24,Rent,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,12,Existing paid,Television,1567,< 100 DM ,1-4 Years,1,Female M/D,None,1,Others,22,Own,1,Skilled,1,Registered,No,good
+< 0 DM,24,Dues Remain,New Car,1199,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,60,Own,2,Unskilled,1,None,No,bad
+< 0 DM,15,Existing paid,New Car,1403,< 100 DM ,1-4 Years,2,Female M/D,None,4,Others,28,Rent,1,Skilled,1,None,No,good
+< 0 DM,24,Existing paid,Television,1282,100-500 DM,1-4 Years,4,Female M/D,None,2,Others,32,Own,1,Unskilled,1,None,No,bad
+No Acc,24,Dues Remain,Television,2424,Unknown,>7 Years,4,Male M/D,None,4,Building society,53,Own,2,Skilled,1,None,No,good
+< 0 DM,30,All Paid,Business,8072,Unknown,1 Year,2,Male M/D,None,3,Others,25,Own,3,Skilled,1,None,No,good
+0 <= ... < 200 DM,24,Existing paid,Old Car,12579,< 100 DM ,>7 Years,4,Female M/D,None,2,Unknown,44,Free,1,Highly Qualified,1,Registered,No,bad
+No Acc,24,Existing paid,Television,3430,500-1000 DM,>7 Years,3,Male M/D,None,2,Others,31,Own,1,Skilled,2,Registered,No,good
+No Acc,9,Dues Remain,New Car,2134,< 100 DM ,1-4 Years,4,Male M/D,None,4,Others,48,Own,3,Skilled,1,Registered,No,good
+< 0 DM,6,Existing paid,Television,2647,500-1000 DM,1-4 Years,2,Male M/D,None,3,Real Estate,44,Rent,1,Skilled,2,None,No,good
+< 0 DM,10,Dues Remain,New Car,2241,< 100 DM ,1 Year,1,Male M/D,None,3,Real Estate,48,Rent,2,Unskilled,2,None,Yes,good
+0 <= ... < 200 DM,12,Dues Remain,Old Car,1804,100-500 DM,1 Year,3,Male M/D,None,4,Building society,44,Own,1,Skilled,1,None,No,good
+No Acc,10,Dues Remain,Furniture,2069,Unknown,1-4 Years,2,Male S,None,1,Others,26,Own,2,Skilled,1,None,Yes,good
+< 0 DM,6,Existing paid,Furniture,1374,< 100 DM ,1-4 Years,1,Male M/D,None,2,Real Estate,36,Own,1,Unskilled,1,Registered,No,good
+No Acc,6,All Paid,Television,426,< 100 DM ,>7 Years,4,Male S,None,4,Others,39,Own,1,Unskilled,1,None,No,good
+>= 200 DM,12,Bank paid,Television,409,>1000 DM,1-4 Years,3,Female M/D,None,3,Real Estate,42,Rent,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,7,Existing paid,Television,2415,< 100 DM ,1-4 Years,3,Male M/D,Guarantor,2,Real Estate,34,Own,1,Skilled,1,None,No,good
+< 0 DM,60,Delayed,Business,6836,< 100 DM ,>7 Years,3,Male M/D,None,4,Unknown,63,Own,2,Skilled,1,Registered,No,bad
+0 <= ... < 200 DM,18,Existing paid,Business,1913,>1000 DM,1 Year,3,Male S,None,3,Real Estate,36,Own,1,Skilled,1,Registered,No,good
+< 0 DM,24,Existing paid,Furniture,4020,< 100 DM ,1-4 Years,2,Male M/D,None,2,Others,27,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,18,Existing paid,New Car,5866,100-500 DM,1-4 Years,2,Male M/D,None,2,Others,30,Own,2,Skilled,1,Registered,No,good
+No Acc,12,Dues Remain,Business,1264,Unknown,>7 Years,4,Male M/D,None,4,Unknown,57,Rent,1,Unskilled,1,None,No,good
+>= 200 DM,12,Existing paid,Furniture,1474,< 100 DM ,1 Year,4,Female M/D,None,1,Building society,33,Own,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,45,Dues Remain,Television,4746,< 100 DM ,1 Year,4,Male M/D,None,2,Building society,25,Own,2,Unskilled,1,None,No,bad
+No Acc,48,Dues Remain,Education,6110,< 100 DM ,1-4 Years,1,Male M/D,None,3,Unknown,31,Free,1,Skilled,1,Registered,No,good
+>= 200 DM,18,Existing paid,Television,2100,< 100 DM ,1-4 Years,4,Male M/D,Co-app,2,Real Estate,37,Own,1,Skilled,1,None,No,bad
+>= 200 DM,10,Existing paid,Appliance,1225,< 100 DM ,1-4 Years,2,Male M/D,None,2,Others,37,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,9,Existing paid,Television,458,< 100 DM ,1-4 Years,4,Male M/D,None,3,Real Estate,24,Own,1,Skilled,1,None,No,good
+No Acc,30,Existing paid,Television,2333,500-1000 DM,>7 Years,4,Male M/D,None,2,Others,30,Own,1,Highly Qualified,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Television,1158,500-1000 DM,1-4 Years,3,Female S,None,1,Others,26,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,18,Delayed,Repairs,6204,< 100 DM ,1-4 Years,2,Male M/D,None,4,Real Estate,44,Own,1,Unskilled,2,Registered,No,good
+< 0 DM,30,Dues Remain,Old Car,6187,100-500 DM,4-7 Years,1,Male S,None,4,Others,24,Rent,2,Skilled,1,None,No,good
+< 0 DM,48,Dues Remain,Old Car,6143,< 100 DM ,>7 Years,4,Female M/D,None,4,Unknown,58,Free,2,Unskilled,1,None,No,bad
+No Acc,11,Dues Remain,New Car,1393,< 100 DM ,1 Year,4,Female M/D,None,4,Others,35,Own,2,Highly Qualified,1,None,No,good
+No Acc,36,Existing paid,Television,2299,500-1000 DM,>7 Years,4,Male M/D,None,4,Others,39,Own,1,Skilled,1,None,No,good
+< 0 DM,6,Existing paid,Old Car,1352,500-1000 DM,Unemployed,1,Female M/D,None,2,Building society,23,Rent,1,Unemployed,1,Registered,No,good
+No Acc,11,Dues Remain,New Car,7228,< 100 DM ,1-4 Years,1,Male M/D,None,4,Building society,39,Own,2,Unskilled,1,None,No,good
+No Acc,12,Existing paid,Television,2073,100-500 DM,1-4 Years,4,Female M/D,Co-app,2,Real Estate,28,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,24,Delayed,Furniture,2333,Unknown,1 Year,4,Male M/D,None,2,Building society,29,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,27,Delayed,Old Car,5965,< 100 DM ,>7 Years,1,Male M/D,None,2,Others,30,Own,2,Highly Qualified,1,Registered,No,good
+No Acc,12,Existing paid,Television,1262,< 100 DM ,1-4 Years,3,Male M/D,None,2,Others,25,Own,1,Skilled,1,None,No,good
+No Acc,18,Existing paid,Old Car,3378,Unknown,1-4 Years,2,Male M/D,None,1,Building society,31,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,36,Delayed,New Car,2225,< 100 DM ,>7 Years,4,Male M/D,None,4,Unknown,57,Free,2,Skilled,1,Registered,No,bad
+No Acc,6,Bank paid,New Car,783,Unknown,1-4 Years,1,Male M/D,Guarantor,2,Real Estate,26,Own,1,Unskilled,2,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Television,6468,Unknown,Unemployed,2,Male M/D,None,1,Unknown,52,Own,1,Highly Qualified,1,Registered,No,bad
+No Acc,36,Dues Remain,Television,9566,< 100 DM ,1-4 Years,2,Female M/D,None,2,Others,31,Own,2,Skilled,1,None,No,good
+>= 200 DM,18,Existing paid,New Car,1961,< 100 DM ,>7 Years,3,Female M/D,None,2,Others,23,Own,1,Highly Qualified,1,None,No,good
+< 0 DM,36,Dues Remain,Furniture,6229,< 100 DM ,1 Year,4,Female M/D,Co-app,4,Unknown,23,Rent,2,Unskilled,1,Registered,No,bad
+0 <= ... < 200 DM,9,Existing paid,Business,1391,< 100 DM ,1-4 Years,2,Male S,None,1,Real Estate,27,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,15,Dues Remain,Television,1537,Unknown,>7 Years,4,Male M/D,Guarantor,4,Real Estate,50,Own,2,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,36,All Paid,Business,1953,< 100 DM ,>7 Years,4,Male M/D,None,4,Unknown,61,Free,1,Highly Qualified,1,Registered,No,bad
+0 <= ... < 200 DM,48,All Paid,Business,14421,< 100 DM ,1-4 Years,2,Male M/D,None,2,Others,25,Own,1,Skilled,1,Registered,No,bad
+No Acc,24,Existing paid,Television,3181,< 100 DM ,1 Year,4,Female M/D,None,4,Building society,26,Own,1,Skilled,1,Registered,No,good
+No Acc,27,Existing paid,Repairs,5190,Unknown,>7 Years,4,Male M/D,None,4,Building society,48,Own,4,Skilled,2,Registered,No,good
+No Acc,12,Existing paid,Television,2171,< 100 DM ,1 Year,2,Female M/D,None,2,Others,29,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,New Car,1007,>1000 DM,1-4 Years,4,Male S,None,1,Real Estate,22,Own,1,Skilled,1,None,No,good
+No Acc,36,Existing paid,Education,1819,< 100 DM ,1-4 Years,4,Male M/D,None,4,Unknown,37,Free,1,Skilled,1,Registered,No,bad
+No Acc,36,Existing paid,Television,2394,Unknown,1-4 Years,4,Female M/D,None,4,Others,25,Own,1,Skilled,1,None,No,good
+No Acc,36,Existing paid,Old Car,8133,< 100 DM ,1-4 Years,1,Female M/D,None,2,Building society,30,Own,1,Skilled,1,None,No,good
+No Acc,7,Dues Remain,Television,730,Unknown,>7 Years,4,Male M/D,None,2,Building society,46,Rent,2,Unskilled,1,Registered,No,good
+< 0 DM,8,Dues Remain,Others,1164,< 100 DM ,>7 Years,3,Male M/D,None,4,Unknown,51,Free,2,Highly Qualified,2,Registered,No,good
+0 <= ... < 200 DM,42,Dues Remain,Business,5954,< 100 DM ,4-7 Years,2,Female M/D,None,1,Real Estate,41,Own,2,Unskilled,1,None,No,good
+< 0 DM,36,Existing paid,Education,1977,Unknown,>7 Years,4,Male M/D,None,4,Unknown,40,Own,1,Highly Qualified,1,Registered,No,bad
+< 0 DM,12,Dues Remain,Old Car,1526,< 100 DM ,>7 Years,4,Male M/D,None,4,Unknown,66,Free,2,Highly Qualified,1,None,No,good
+< 0 DM,42,Existing paid,Television,3965,< 100 DM ,1 Year,4,Male M/D,None,3,Others,34,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,11,Delayed,Television,4771,< 100 DM ,4-7 Years,2,Male M/D,None,4,Building society,51,Own,1,Skilled,1,None,No,good
+No Acc,54,All Paid,Old Car,9436,Unknown,1-4 Years,2,Male M/D,None,2,Building society,39,Own,1,Unskilled,2,None,No,good
+0 <= ... < 200 DM,30,Existing paid,Furniture,3832,< 100 DM ,1 Year,2,Male S,None,1,Building society,22,Own,1,Skilled,1,None,No,good
+No Acc,24,Existing paid,Television,5943,Unknown,1 Year,1,Female M/D,None,1,Others,44,Own,2,Skilled,1,Registered,No,bad
+No Acc,15,Existing paid,Television,1213,500-1000 DM,>7 Years,4,Male M/D,None,3,Building society,47,Own,1,Skilled,1,Registered,No,good
+No Acc,18,Existing paid,Business,1568,100-500 DM,1-4 Years,3,Female M/D,None,4,Building society,24,Rent,1,Unskilled,1,None,No,good
+< 0 DM,24,Existing paid,Others,1755,< 100 DM ,>7 Years,4,Female M/D,Guarantor,4,Real Estate,58,Own,1,Unskilled,1,Registered,No,good
+< 0 DM,10,Existing paid,Television,2315,< 100 DM ,>7 Years,3,Male M/D,None,4,Real Estate,52,Own,1,Unskilled,1,None,No,good
+No Acc,12,Dues Remain,Business,1412,< 100 DM ,1-4 Years,4,Female M/D,Guarantor,2,Real Estate,29,Own,2,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,18,Dues Remain,Furniture,1295,< 100 DM ,1 Year,4,Female M/D,None,1,Building society,27,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,36,Existing paid,Education,12612,100-500 DM,1-4 Years,1,Male M/D,None,4,Unknown,47,Free,1,Skilled,2,Registered,No,bad
+< 0 DM,18,Existing paid,New Car,2249,100-500 DM,4-7 Years,4,Male M/D,None,3,Others,30,Own,1,Highly Qualified,2,Registered,No,good
+< 0 DM,12,All Paid,Repairs,1108,< 100 DM ,4-7 Years,4,Male M/D,None,3,Real Estate,28,Own,2,Skilled,1,None,No,bad
+No Acc,12,Dues Remain,Television,618,< 100 DM ,>7 Years,4,Male M/D,None,4,Real Estate,56,Own,1,Skilled,1,None,No,good
+< 0 DM,12,Dues Remain,Old Car,1409,< 100 DM ,>7 Years,4,Male M/D,None,3,Real Estate,54,Own,1,Skilled,1,None,No,good
+No Acc,12,Dues Remain,Television,797,Unknown,>7 Years,4,Female M/D,None,3,Building society,33,Own,1,Unskilled,2,None,No,bad
+>= 200 DM,24,Dues Remain,Furniture,3617,Unknown,>7 Years,4,Male M/D,Co-app,4,Unknown,20,Rent,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,New Car,1318,>1000 DM,>7 Years,4,Male M/D,None,4,Real Estate,54,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,54,All Paid,Business,15945,< 100 DM ,1 Year,3,Male M/D,None,4,Unknown,58,Rent,1,Skilled,1,Registered,No,bad
+No Acc,12,Dues Remain,Education,2012,Unknown,4-7 Years,4,Female M/D,None,2,Others,61,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,18,Existing paid,Business,2622,100-500 DM,1-4 Years,4,Male M/D,None,4,Others,34,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,36,Dues Remain,Television,2337,< 100 DM ,>7 Years,4,Male M/D,None,4,Real Estate,36,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,20,Delayed,Old Car,7057,Unknown,4-7 Years,3,Male M/D,None,4,Building society,36,Rent,2,Highly Qualified,2,Registered,No,good
+No Acc,24,Existing paid,New Car,1469,100-500 DM,>7 Years,4,Male S,None,4,Real Estate,41,Rent,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,36,Existing paid,Television,2323,< 100 DM ,4-7 Years,4,Male M/D,None,4,Others,24,Rent,1,Skilled,1,None,No,good
+No Acc,6,Delayed,Television,932,< 100 DM ,1-4 Years,3,Female M/D,None,2,Real Estate,24,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,9,Dues Remain,Furniture,1919,< 100 DM ,4-7 Years,4,Male M/D,None,3,Others,35,Rent,1,Skilled,1,Registered,No,good
+No Acc,12,Existing paid,Old Car,2445,Unknown,1 Year,2,Male S,None,4,Others,26,Rent,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,24,Dues Remain,Others,11938,< 100 DM ,1-4 Years,2,Male M/D,Co-app,3,Others,39,Own,2,Highly Qualified,2,Registered,No,bad
+No Acc,18,Bank paid,New Car,6458,< 100 DM ,>7 Years,2,Male M/D,None,4,Unknown,39,Own,2,Highly Qualified,2,Registered,No,bad
+0 <= ... < 200 DM,12,Existing paid,New Car,6078,< 100 DM ,4-7 Years,2,Male M/D,None,2,Others,32,Own,1,Skilled,1,None,No,good
+< 0 DM,24,Existing paid,Furniture,7721,Unknown,1 Year,1,Female M/D,None,2,Building society,30,Own,1,Skilled,1,Registered,Yes,good
+0 <= ... < 200 DM,14,Existing paid,Business,1410,500-1000 DM,>7 Years,1,Male S,None,2,Real Estate,35,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,6,Delayed,Business,1449,100-500 DM,>7 Years,1,Female S,None,2,Others,31,Own,2,Skilled,2,None,No,good
+>= 200 DM,15,Existing paid,Education,392,< 100 DM ,1 Year,4,Female M/D,None,4,Building society,23,Rent,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,18,Existing paid,New Car,6260,< 100 DM ,4-7 Years,3,Male M/D,None,3,Real Estate,28,Rent,1,Unskilled,1,None,No,good
+No Acc,36,Dues Remain,New Car,7855,< 100 DM ,1-4 Years,4,Female M/D,None,2,Real Estate,25,Own,2,Skilled,1,Registered,No,bad
+< 0 DM,12,Existing paid,Television,1680,500-1000 DM,>7 Years,3,Male S,None,1,Real Estate,35,Own,1,Skilled,1,None,No,good
+No Acc,48,Dues Remain,Television,3578,Unknown,>7 Years,4,Male M/D,None,1,Real Estate,47,Own,1,Skilled,1,Registered,No,good
+< 0 DM,42,Existing paid,Television,7174,Unknown,4-7 Years,4,Female M/D,None,3,Others,30,Own,1,Highly Qualified,1,Registered,No,bad
+< 0 DM,10,Dues Remain,Furniture,2132,Unknown,1 Year,2,Female M/D,Co-app,3,Real Estate,27,Rent,2,Skilled,1,None,Yes,good
+< 0 DM,33,Dues Remain,Furniture,4281,500-1000 DM,1-4 Years,1,Female M/D,None,4,Others,23,Own,2,Skilled,1,None,No,bad
+0 <= ... < 200 DM,12,Dues Remain,New Car,2366,500-1000 DM,4-7 Years,3,Female S,None,3,Others,36,Own,1,Highly Qualified,1,Registered,No,good
+< 0 DM,21,Existing paid,Television,1835,< 100 DM ,1-4 Years,3,Female M/D,None,2,Real Estate,25,Own,2,Skilled,1,Registered,No,bad
+No Acc,24,Dues Remain,Old Car,3868,< 100 DM ,>7 Years,4,Female M/D,None,2,Others,41,Rent,2,Highly Qualified,1,Registered,No,good
+No Acc,12,Existing paid,Furniture,1768,< 100 DM ,1-4 Years,3,Male M/D,None,2,Real Estate,24,Rent,1,Unskilled,1,None,No,good
+>= 200 DM,10,Dues Remain,New Car,781,< 100 DM ,>7 Years,4,Male M/D,None,4,Unknown,63,Free,2,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,18,Existing paid,Furniture,1924,Unknown,1 Year,4,Female M/D,None,3,Real Estate,27,Rent,1,Skilled,1,None,No,bad
+< 0 DM,12,Dues Remain,New Car,2121,< 100 DM ,1-4 Years,4,Male M/D,None,2,Building society,30,Own,2,Skilled,1,None,No,good
+< 0 DM,12,Existing paid,Television,701,< 100 DM ,1-4 Years,4,Male S,None,2,Real Estate,40,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Repairs,639,< 100 DM ,1-4 Years,4,Male M/D,None,2,Others,30,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,12,Dues Remain,Old Car,1860,< 100 DM ,Unemployed,4,Male M/D,None,2,Others,34,Own,2,Highly Qualified,1,Registered,No,good
+< 0 DM,12,Dues Remain,New Car,3499,< 100 DM ,1-4 Years,3,Female M/D,Co-app,2,Real Estate,29,Own,2,Skilled,1,None,No,bad
+0 <= ... < 200 DM,48,Existing paid,New Car,8487,Unknown,4-7 Years,1,Female M/D,None,2,Others,24,Own,1,Skilled,1,None,No,good
+< 0 DM,36,Delayed,Education,6887,< 100 DM ,1-4 Years,4,Male M/D,None,3,Building society,29,Own,1,Skilled,1,Registered,No,bad
+No Acc,15,Existing paid,Furniture,2708,< 100 DM ,1 Year,2,Male M/D,None,3,Building society,27,Own,2,Unskilled,1,None,No,good
+No Acc,18,Existing paid,Furniture,1984,< 100 DM ,1-4 Years,4,Male M/D,None,4,Unknown,47,Free,2,Skilled,1,None,No,good
+No Acc,60,Existing paid,Television,10144,100-500 DM,4-7 Years,2,Female M/D,None,4,Real Estate,21,Own,1,Skilled,1,Registered,No,good
+No Acc,12,Dues Remain,Television,1240,Unknown,>7 Years,4,Female M/D,None,2,Real Estate,38,Own,2,Skilled,1,Registered,No,good
+No Acc,27,Delayed,Old Car,8613,>1000 DM,1-4 Years,2,Male M/D,None,2,Others,27,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Television,766,500-1000 DM,1-4 Years,4,Male M/D,None,3,Real Estate,66,Own,1,Unskilled,1,None,No,bad
+0 <= ... < 200 DM,15,Dues Remain,Television,2728,Unknown,4-7 Years,4,Male M/D,Guarantor,2,Real Estate,35,Own,3,Skilled,1,Registered,No,good
+>= 200 DM,12,Existing paid,Television,1881,< 100 DM ,1-4 Years,2,Female M/D,None,2,Others,44,Rent,1,Unskilled,1,Registered,No,good
+>= 200 DM,6,Existing paid,New Car,709,>1000 DM,1 Year,2,Male S,None,2,Real Estate,27,Own,1,Unemployed,1,None,Yes,good
+0 <= ... < 200 DM,36,Existing paid,Television,4795,< 100 DM ,1 Year,4,Female M/D,None,1,Unknown,30,Own,1,Highly Qualified,1,Registered,No,good
+< 0 DM,27,Existing paid,Television,3416,< 100 DM ,1-4 Years,3,Male M/D,None,2,Others,27,Own,1,Highly Qualified,1,None,No,good
+< 0 DM,18,Existing paid,Furniture,2462,< 100 DM ,1-4 Years,2,Male M/D,None,2,Others,22,Own,1,Skilled,1,None,No,bad
+No Acc,21,Dues Remain,Furniture,2288,< 100 DM ,1 Year,4,Female M/D,None,4,Building society,23,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,48,Bank paid,Business,3566,100-500 DM,4-7 Years,4,Male M/D,None,2,Others,30,Own,1,Skilled,1,None,No,good
+< 0 DM,6,Dues Remain,New Car,860,< 100 DM ,>7 Years,1,Female M/D,None,4,Unknown,39,Own,2,Skilled,1,Registered,No,good
+No Acc,12,Dues Remain,New Car,682,100-500 DM,4-7 Years,4,Female M/D,None,3,Others,51,Own,2,Skilled,1,Registered,No,good
+< 0 DM,36,Dues Remain,Furniture,5371,< 100 DM ,1-4 Years,3,Male M/D,Guarantor,2,Building society,28,Own,2,Skilled,1,None,No,good
+No Acc,18,Dues Remain,Television,1582,>1000 DM,>7 Years,4,Male M/D,None,4,Others,46,Own,2,Skilled,1,None,No,good
+No Acc,6,Existing paid,Television,1346,100-500 DM,>7 Years,2,Male M/D,None,4,Unknown,42,Free,1,Skilled,2,Registered,No,good
+No Acc,10,Existing paid,Television,1924,< 100 DM ,1-4 Years,1,Male M/D,None,4,Building society,38,Own,1,Skilled,1,Registered,Yes,good
+>= 200 DM,36,Existing paid,Television,5848,< 100 DM ,1-4 Years,4,Male M/D,None,1,Others,24,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,24,Dues Remain,Old Car,7758,>1000 DM,>7 Years,2,Female M/D,None,4,Unknown,29,Rent,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,24,Delayed,Business,6967,100-500 DM,4-7 Years,4,Male M/D,None,4,Others,36,Rent,1,Highly Qualified,1,Registered,No,good
+< 0 DM,12,Existing paid,Furniture,1282,< 100 DM ,1-4 Years,2,Female M/D,None,4,Others,20,Rent,1,Skilled,1,None,No,bad
+< 0 DM,9,Dues Remain,Repairs,1288,100-500 DM,>7 Years,3,Male M/D,Guarantor,4,Real Estate,48,Own,2,Skilled,2,None,Yes,good
+< 0 DM,12,Bank paid,Retraining,339,< 100 DM ,>7 Years,4,Male S,None,1,Others,45,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,24,Existing paid,New Car,3512,100-500 DM,4-7 Years,2,Male M/D,None,3,Others,38,Own,2,Skilled,1,Registered,No,good
+No Acc,6,Dues Remain,Television,1898,Unknown,1-4 Years,1,Male M/D,None,2,Real Estate,34,Own,2,Unskilled,2,None,No,good
+No Acc,24,Dues Remain,Television,2872,100-500 DM,>7 Years,3,Male M/D,None,4,Real Estate,36,Own,1,Skilled,2,Registered,No,good
+No Acc,18,Dues Remain,New Car,1055,< 100 DM ,1 Year,4,Female M/D,None,1,Building society,30,Own,2,Skilled,1,None,No,good
+No Acc,15,Existing paid,Appliance,1262,500-1000 DM,4-7 Years,4,Male M/D,None,3,Building society,36,Own,2,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,10,Existing paid,New Car,7308,< 100 DM ,Unemployed,2,Male M/D,None,4,Unknown,70,Free,1,Highly Qualified,1,Registered,No,good
+No Acc,36,Existing paid,New Car,909,500-1000 DM,>7 Years,4,Male M/D,None,4,Building society,36,Own,1,Skilled,1,None,No,good
+No Acc,6,Existing paid,Furniture,2978,500-1000 DM,1-4 Years,1,Male M/D,None,2,Others,32,Own,1,Skilled,1,Registered,No,good
+< 0 DM,18,Existing paid,Furniture,1131,< 100 DM ,Unemployed,4,Female M/D,None,2,Others,33,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,11,Existing paid,Furniture,1577,>1000 DM,1 Year,4,Female M/D,None,1,Real Estate,20,Own,1,Skilled,1,None,No,good
+No Acc,24,Existing paid,Furniture,3972,< 100 DM ,4-7 Years,2,Female M/D,None,4,Building society,25,Rent,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,24,Dues Remain,Business,1935,< 100 DM ,>7 Years,4,Female S,None,4,Real Estate,31,Own,2,Skilled,1,Registered,No,bad
+< 0 DM,15,All Paid,New Car,950,< 100 DM ,>7 Years,4,Male M/D,None,3,Others,33,Rent,2,Skilled,2,None,No,bad
+No Acc,12,Existing paid,Furniture,763,< 100 DM ,1-4 Years,4,Female M/D,None,1,Real Estate,26,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,24,Delayed,Furniture,2064,< 100 DM ,Unemployed,3,Female M/D,None,2,Building society,34,Own,1,Highly Qualified,1,Registered,No,bad
+0 <= ... < 200 DM,8,Existing paid,Television,1414,< 100 DM ,1-4 Years,4,Male M/D,Guarantor,2,Real Estate,33,Own,1,Skilled,1,None,Yes,good
+< 0 DM,21,Delayed,Education,3414,< 100 DM ,1 Year,2,Male M/D,None,1,Building society,26,Own,2,Skilled,1,None,No,bad
+No Acc,30,Bank paid,Old Car,7485,Unknown,Unemployed,4,Female M/D,None,1,Real Estate,53,Own,1,Highly Qualified,1,Registered,No,bad
+< 0 DM,12,Existing paid,Furniture,2577,< 100 DM ,1-4 Years,2,Female S,None,1,Others,42,Own,1,Skilled,1,None,No,good
+< 0 DM,6,Dues Remain,Television,338,500-1000 DM,>7 Years,4,Male M/D,None,4,Others,52,Own,2,Skilled,1,None,No,good
+No Acc,12,Existing paid,Television,1963,< 100 DM ,4-7 Years,4,Male M/D,None,2,Others,31,Rent,2,Highly Qualified,2,Registered,No,good
+< 0 DM,21,Dues Remain,New Car,571,< 100 DM ,>7 Years,4,Male M/D,None,4,Real Estate,65,Own,2,Skilled,1,None,No,good
+No Acc,36,Delayed,Business,9572,< 100 DM ,1 Year,1,Female S,None,1,Others,28,Own,2,Skilled,1,None,No,bad
+0 <= ... < 200 DM,36,Delayed,Business,4455,< 100 DM ,1-4 Years,2,Female S,None,2,Real Estate,30,Own,2,Highly Qualified,1,Registered,No,bad
+< 0 DM,21,Bank paid,New Car,1647,Unknown,1-4 Years,4,Male M/D,None,2,Building society,40,Own,2,Unskilled,2,None,No,bad
+No Acc,24,Dues Remain,Furniture,3777,>1000 DM,1-4 Years,4,Male M/D,None,4,Real Estate,50,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,18,Dues Remain,New Car,884,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,36,Own,1,Skilled,2,Registered,No,bad
+No Acc,15,Dues Remain,Television,1360,< 100 DM ,1-4 Years,4,Male M/D,None,2,Building society,31,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,9,Bank paid,Old Car,5129,< 100 DM ,>7 Years,2,Female M/D,None,4,Unknown,74,Free,1,Highly Qualified,2,Registered,No,bad
+0 <= ... < 200 DM,16,Dues Remain,New Car,1175,< 100 DM ,Unemployed,2,Male M/D,None,3,Others,68,Free,3,Unemployed,1,Registered,No,good
+< 0 DM,12,Existing paid,Television,674,100-500 DM,4-7 Years,4,Male S,None,1,Building society,20,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,18,All Paid,Furniture,3244,< 100 DM ,1-4 Years,1,Female M/D,None,4,Others,33,Own,2,Skilled,1,Registered,No,good
+No Acc,24,Existing paid,Business,4591,>1000 DM,1-4 Years,2,Male M/D,None,3,Building society,54,Own,3,Highly Qualified,1,Registered,No,bad
+0 <= ... < 200 DM,48,All Paid,Business,3844,100-500 DM,4-7 Years,4,Male M/D,None,4,Unknown,34,Free,1,Unskilled,2,None,No,bad
+0 <= ... < 200 DM,27,Existing paid,Business,3915,< 100 DM ,1-4 Years,4,Male M/D,None,2,Others,36,Own,1,Skilled,2,Registered,No,bad
+No Acc,6,Existing paid,Television,2108,< 100 DM ,4-7 Years,2,Male S,None,2,Real Estate,29,Rent,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,45,Existing paid,Television,3031,100-500 DM,1-4 Years,4,Male M/D,Guarantor,4,Building society,21,Rent,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,9,Dues Remain,Education,1501,< 100 DM ,>7 Years,2,Female M/D,None,3,Others,34,Own,2,Highly Qualified,1,Registered,No,bad
+No Acc,6,Dues Remain,Television,1382,< 100 DM ,1-4 Years,1,Female M/D,None,1,Others,28,Own,2,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,12,Existing paid,Furniture,951,100-500 DM,1 Year,4,Female M/D,None,4,Others,27,Rent,4,Skilled,1,None,No,bad
+0 <= ... < 200 DM,24,Existing paid,Old Car,2760,Unknown,>7 Years,4,Male M/D,None,4,Unknown,36,Free,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,18,Delayed,Furniture,4297,< 100 DM ,>7 Years,4,Female S,None,3,Unknown,40,Own,1,Highly Qualified,1,Registered,No,bad
+No Acc,9,Dues Remain,Education,936,500-1000 DM,>7 Years,4,Male M/D,None,2,Others,52,Own,2,Skilled,1,Registered,No,good
+< 0 DM,12,Existing paid,New Car,1168,< 100 DM ,1-4 Years,4,Male S,None,3,Real Estate,27,Own,1,Unskilled,1,None,No,good
+No Acc,27,Delayed,Business,5117,< 100 DM ,4-7 Years,3,Male M/D,None,4,Others,26,Own,2,Skilled,1,None,No,good
+< 0 DM,12,Existing paid,Retraining,902,< 100 DM ,4-7 Years,4,Male S,None,4,Building society,21,Rent,1,Skilled,1,None,No,bad
+No Acc,12,Dues Remain,New Car,1495,< 100 DM ,>7 Years,4,Male M/D,None,1,Real Estate,38,Own,2,Unskilled,2,None,No,good
+< 0 DM,30,Dues Remain,Old Car,10623,< 100 DM ,>7 Years,3,Male M/D,None,4,Unknown,38,Free,3,Highly Qualified,2,Registered,No,good
+No Acc,12,Dues Remain,Furniture,1935,< 100 DM ,>7 Years,4,Male M/D,None,4,Real Estate,43,Own,3,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,12,Dues Remain,Appliance,1424,< 100 DM ,4-7 Years,4,Male M/D,None,3,Building society,26,Own,1,Skilled,1,None,No,good
+< 0 DM,24,Existing paid,Business,6568,< 100 DM ,1-4 Years,2,Male S,None,2,Others,21,Own,1,Unskilled,1,None,No,good
+No Acc,12,Existing paid,Old Car,1413,>1000 DM,4-7 Years,3,Male M/D,None,2,Building society,55,Own,1,Skilled,1,None,Yes,good
+No Acc,9,Dues Remain,Television,3074,Unknown,1-4 Years,1,Male M/D,None,2,Real Estate,33,Own,2,Skilled,2,None,No,good
+No Acc,36,Existing paid,Television,3835,Unknown,>7 Years,2,Female M/D,None,4,Real Estate,45,Own,1,Unskilled,1,Registered,No,good
+< 0 DM,27,All Paid,Business,5293,< 100 DM ,Unemployed,2,Male M/D,None,4,Building society,50,Own,2,Skilled,1,Registered,No,bad
+>= 200 DM,30,Delayed,Business,1908,< 100 DM ,>7 Years,4,Male M/D,None,4,Real Estate,66,Own,1,Highly Qualified,1,Registered,No,bad
+No Acc,36,Dues Remain,Television,3342,Unknown,>7 Years,4,Male M/D,None,2,Others,51,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,6,Dues Remain,Retraining,932,Unknown,4-7 Years,1,Female M/D,None,3,Building society,39,Own,2,Unskilled,1,None,No,good
+< 0 DM,18,All Paid,Business,3104,< 100 DM ,4-7 Years,3,Male M/D,None,1,Building society,31,Own,1,Skilled,1,Registered,No,good
+>= 200 DM,36,Existing paid,Television,3913,< 100 DM ,1-4 Years,2,Male M/D,None,2,Real Estate,23,Own,1,Skilled,1,Registered,No,good
+< 0 DM,24,Existing paid,Furniture,3021,< 100 DM ,1-4 Years,2,Female S,None,2,Real Estate,24,Rent,1,Unskilled,1,None,No,good
+No Acc,10,Existing paid,New Car,1364,< 100 DM ,1-4 Years,2,Female M/D,None,4,Others,64,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,12,Existing paid,Television,625,< 100 DM ,1 Year,4,Male S,Guarantor,1,Real Estate,26,Own,1,Unskilled,1,None,No,good
+< 0 DM,12,Existing paid,Education,1200,Unknown,1-4 Years,4,Female M/D,None,4,Building society,23,Rent,1,Skilled,1,Registered,No,good
+No Acc,12,Existing paid,Television,707,< 100 DM ,1-4 Years,4,Male M/D,None,2,Real Estate,30,Own,2,Skilled,1,None,No,good
+No Acc,24,Delayed,Business,2978,Unknown,1-4 Years,4,Male M/D,None,4,Real Estate,32,Own,2,Skilled,2,Registered,No,good
+No Acc,15,Existing paid,Old Car,4657,< 100 DM ,1-4 Years,3,Male M/D,None,2,Others,30,Own,1,Skilled,1,Registered,No,good
+No Acc,36,All Paid,Repairs,2613,< 100 DM ,1-4 Years,4,Male M/D,None,2,Others,27,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,48,Existing paid,Television,10961,>1000 DM,4-7 Years,1,Male M/D,Co-app,2,Unknown,27,Own,2,Skilled,1,Registered,No,bad
+< 0 DM,12,Existing paid,Furniture,7865,< 100 DM ,>7 Years,4,Male M/D,None,4,Unknown,53,Free,1,Highly Qualified,1,Registered,No,bad
+No Acc,9,Existing paid,Television,1478,< 100 DM ,4-7 Years,4,Male M/D,None,2,Others,22,Own,1,Skilled,1,None,No,bad
+< 0 DM,24,Existing paid,Furniture,3149,< 100 DM ,1 Year,4,Male M/D,None,1,Unknown,22,Free,1,Skilled,1,None,No,good
+>= 200 DM,36,Existing paid,Television,4210,< 100 DM ,1-4 Years,4,Male M/D,None,2,Others,26,Own,1,Skilled,1,None,No,bad
+No Acc,9,Existing paid,New Car,2507,500-1000 DM,>7 Years,2,Male M/D,None,4,Unknown,51,Free,1,Unskilled,1,None,No,good
+No Acc,12,Existing paid,Television,2141,100-500 DM,4-7 Years,3,Male M/D,None,1,Unknown,35,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,18,Existing paid,Television,866,< 100 DM ,1-4 Years,4,Male S,Guarantor,2,Real Estate,25,Own,1,Unskilled,1,None,No,good
+No Acc,4,Dues Remain,Television,1544,< 100 DM ,4-7 Years,2,Male M/D,None,1,Real Estate,42,Own,3,Unskilled,2,None,No,good
+< 0 DM,24,Existing paid,Television,1823,< 100 DM ,Unemployed,4,Male M/D,None,2,Others,30,Own,1,Highly Qualified,2,None,No,bad
+0 <= ... < 200 DM,6,Existing paid,New Car,14555,Unknown,Unemployed,1,Male M/D,None,2,Building society,23,Own,1,Unemployed,1,Registered,No,bad
+0 <= ... < 200 DM,21,Existing paid,Business,2767,100-500 DM,>7 Years,4,Female S,None,2,Others,61,Rent,2,Unskilled,1,None,No,bad
+No Acc,12,Dues Remain,Television,1291,< 100 DM ,1-4 Years,4,Female M/D,None,2,Building society,35,Own,2,Skilled,1,None,No,good
+< 0 DM,30,Existing paid,Television,2522,< 100 DM ,>7 Years,1,Male M/D,Guarantor,3,Building society,39,Own,1,Skilled,2,None,No,good
+< 0 DM,24,Existing paid,New Car,915,Unknown,>7 Years,4,Female M/D,None,2,Others,29,Own,1,Skilled,1,None,No,bad
+No Acc,6,Existing paid,Television,1595,< 100 DM ,4-7 Years,3,Male M/D,None,2,Building society,51,Own,1,Skilled,2,None,No,good
+< 0 DM,48,All Paid,Old Car,4605,< 100 DM ,>7 Years,3,Male M/D,None,4,Unknown,24,Free,2,Skilled,2,None,No,bad
+No Acc,12,Dues Remain,Business,1185,< 100 DM ,1-4 Years,3,Female M/D,None,2,Real Estate,27,Own,2,Skilled,1,None,No,good
+No Acc,12,Bank paid,Retraining,3447,500-1000 DM,1-4 Years,4,Female M/D,None,3,Real Estate,35,Own,1,Unskilled,2,None,No,good
+No Acc,24,Existing paid,Business,1258,< 100 DM ,4-7 Years,4,Male M/D,None,1,Real Estate,25,Own,1,Skilled,1,Registered,No,good
+No Acc,12,Dues Remain,Television,717,< 100 DM ,>7 Years,4,Male M/D,None,4,Real Estate,52,Own,3,Skilled,1,None,No,good
+No Acc,6,All Paid,New Car,1204,100-500 DM,1-4 Years,4,Male M/D,None,1,Unknown,35,Rent,1,Skilled,1,None,Yes,good
+>= 200 DM,24,Existing paid,Furniture,1925,< 100 DM ,1-4 Years,2,Male M/D,None,2,Real Estate,26,Own,1,Skilled,1,None,No,good
+No Acc,18,Existing paid,Television,433,< 100 DM ,Unemployed,3,Female M/D,Co-app,4,Real Estate,22,Rent,1,Skilled,1,None,No,bad
+< 0 DM,6,Dues Remain,New Car,666,>1000 DM,4-7 Years,3,Female M/D,None,4,Real Estate,39,Own,2,Unskilled,1,Registered,No,good
+>= 200 DM,12,Existing paid,Furniture,2251,< 100 DM ,1-4 Years,1,Female M/D,None,2,Others,46,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,30,Existing paid,New Car,2150,< 100 DM ,1-4 Years,4,Female M/D,Guarantor,2,Unknown,24,Own,1,Skilled,1,None,No,bad
+No Acc,24,Delayed,Furniture,4151,100-500 DM,1-4 Years,2,Male M/D,None,3,Building society,35,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,9,Existing paid,Furniture,2030,Unknown,4-7 Years,2,Male M/D,None,1,Others,24,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,60,Delayed,Television,7418,Unknown,1-4 Years,1,Male M/D,None,1,Real Estate,27,Own,1,Unskilled,1,None,No,good
+No Acc,24,Dues Remain,Television,2684,< 100 DM ,1-4 Years,4,Male M/D,None,2,Real Estate,35,Own,2,Unskilled,1,None,No,good
+< 0 DM,12,Bank paid,Television,2149,< 100 DM ,1-4 Years,4,Female S,None,1,Unknown,29,Free,1,Skilled,1,None,No,bad
+No Acc,15,Existing paid,Old Car,3812,100-500 DM,1 Year,1,Female M/D,None,4,Others,23,Own,1,Skilled,1,Registered,No,good
+No Acc,11,Dues Remain,Television,1154,100-500 DM,Unemployed,4,Female M/D,None,4,Real Estate,57,Own,3,Unskilled,1,None,No,good
+< 0 DM,12,Existing paid,Furniture,1657,< 100 DM ,1-4 Years,2,Male M/D,None,2,Real Estate,27,Own,1,Skilled,1,None,No,good
+< 0 DM,24,Existing paid,Television,1603,< 100 DM ,>7 Years,4,Female M/D,None,4,Others,55,Own,1,Skilled,1,None,No,good
+< 0 DM,18,Dues Remain,New Car,5302,< 100 DM ,>7 Years,2,Male M/D,None,4,Unknown,36,Free,3,Highly Qualified,1,Registered,No,good
+No Acc,12,Dues Remain,Education,2748,< 100 DM ,>7 Years,2,Female M/D,None,4,Unknown,57,Free,3,Unskilled,1,None,No,good
+No Acc,10,Dues Remain,New Car,1231,< 100 DM ,>7 Years,3,Male M/D,None,4,Real Estate,32,Own,2,Unskilled,2,None,Yes,good
+0 <= ... < 200 DM,15,Existing paid,Television,802,< 100 DM ,>7 Years,4,Male M/D,None,3,Others,37,Own,1,Skilled,2,None,No,bad
+No Acc,36,Dues Remain,Business,6304,Unknown,>7 Years,4,Male M/D,None,4,Real Estate,36,Own,2,Skilled,1,None,No,good
+No Acc,24,Existing paid,Television,1533,< 100 DM ,1 Year,4,Female M/D,None,3,Others,38,Own,1,Skilled,1,Registered,No,good
+< 0 DM,14,Existing paid,New Car,8978,< 100 DM ,>7 Years,1,Female S,None,4,Building society,45,Own,1,Highly Qualified,1,Registered,Yes,bad
+No Acc,24,Existing paid,Television,999,Unknown,>7 Years,4,Male M/D,None,2,Others,25,Own,2,Skilled,1,None,No,good
+No Acc,18,Existing paid,New Car,2662,Unknown,4-7 Years,4,Male M/D,None,3,Building society,32,Own,1,Skilled,1,None,Yes,good
+No Acc,12,Dues Remain,Furniture,1402,500-1000 DM,4-7 Years,3,Female M/D,None,4,Others,37,Rent,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,48,Bank paid,New Car,12169,Unknown,Unemployed,4,Male M/D,Co-app,4,Unknown,36,Free,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,48,Existing paid,Television,3060,< 100 DM ,4-7 Years,4,Male M/D,None,4,Real Estate,28,Own,2,Skilled,1,None,No,bad
+< 0 DM,30,Existing paid,Repairs,11998,< 100 DM ,1 Year,1,Female S,None,1,Unknown,34,Own,1,Unskilled,1,Registered,No,bad
+No Acc,9,Existing paid,Television,2697,< 100 DM ,1-4 Years,1,Male M/D,None,2,Real Estate,32,Own,1,Skilled,2,None,No,good
+No Acc,18,Dues Remain,Television,2404,< 100 DM ,1-4 Years,2,Female M/D,None,2,Others,26,Own,2,Skilled,1,None,No,good
+< 0 DM,12,Existing paid,Furniture,1262,Unknown,>7 Years,2,Female S,None,4,Building society,49,Own,1,Unskilled,1,Registered,No,good
+No Acc,6,Existing paid,Furniture,4611,< 100 DM ,1 Year,1,Female M/D,None,4,Building society,32,Own,1,Skilled,1,None,No,bad
+No Acc,24,Existing paid,Television,1901,100-500 DM,1-4 Years,4,Male M/D,None,4,Others,29,Rent,1,Highly Qualified,1,Registered,No,good
+No Acc,15,Dues Remain,Old Car,3368,>1000 DM,>7 Years,3,Male M/D,None,4,Unknown,23,Rent,2,Skilled,1,Registered,No,good
+No Acc,12,Existing paid,Furniture,1574,< 100 DM ,1-4 Years,4,Male M/D,None,2,Real Estate,50,Own,1,Skilled,1,None,No,good
+>= 200 DM,18,Bank paid,Television,1445,Unknown,4-7 Years,4,Male M/D,None,4,Others,49,Own,1,Unskilled,1,None,No,good
+No Acc,15,Dues Remain,Furniture,1520,Unknown,>7 Years,4,Male M/D,None,4,Building society,63,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,24,Dues Remain,New Car,3878,100-500 DM,1 Year,4,Female S,None,2,Others,37,Own,1,Skilled,1,Registered,No,good
+< 0 DM,47,Existing paid,New Car,10722,< 100 DM ,1 Year,1,Female M/D,None,1,Real Estate,35,Own,1,Unskilled,1,Registered,No,good
+< 0 DM,48,Existing paid,Old Car,4788,< 100 DM ,4-7 Years,4,Male M/D,None,3,Building society,26,Own,1,Skilled,2,None,No,good
+0 <= ... < 200 DM,48,Delayed,Others,7582,100-500 DM,Unemployed,2,Male M/D,None,4,Unknown,31,Free,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,12,Existing paid,Television,1092,< 100 DM ,1-4 Years,4,Female M/D,Guarantor,4,Real Estate,49,Own,2,Skilled,1,Registered,No,good
+< 0 DM,24,Delayed,Television,1024,< 100 DM ,1 Year,4,Male S,None,4,Real Estate,48,Own,1,Skilled,1,None,No,bad
+No Acc,12,Existing paid,Business,1076,< 100 DM ,1-4 Years,2,Male S,None,2,Real Estate,26,Own,1,Skilled,1,Registered,Yes,good
+0 <= ... < 200 DM,36,Existing paid,Old Car,9398,< 100 DM ,1 Year,1,Male S,None,4,Others,28,Rent,1,Highly Qualified,1,Registered,No,bad
+< 0 DM,24,Dues Remain,Old Car,6419,< 100 DM ,>7 Years,2,Female M/D,None,4,Unknown,44,Free,2,Highly Qualified,2,Registered,No,good
+>= 200 DM,42,Dues Remain,Old Car,4796,< 100 DM ,>7 Years,4,Male M/D,None,4,Unknown,56,Free,1,Skilled,1,None,No,good
+No Acc,48,Dues Remain,Business,7629,Unknown,>7 Years,4,Female S,None,2,Others,46,Own,2,Highly Qualified,2,None,No,good
+0 <= ... < 200 DM,48,Existing paid,Furniture,9960,< 100 DM ,1 Year,1,Female M/D,None,2,Others,26,Own,1,Skilled,1,Registered,No,bad
+No Acc,12,Existing paid,Old Car,4675,Unknown,1 Year,1,Female M/D,None,4,Others,20,Rent,1,Skilled,1,None,No,good
+No Acc,10,Existing paid,New Car,1287,Unknown,>7 Years,4,Male M/D,Co-app,2,Building society,45,Own,1,Unskilled,1,None,Yes,good
+No Acc,18,Existing paid,Furniture,2515,< 100 DM ,1-4 Years,3,Male M/D,None,4,Real Estate,43,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,21,Dues Remain,Furniture,2745,>1000 DM,4-7 Years,3,Male M/D,None,2,Others,32,Own,2,Skilled,1,Registered,No,good
+No Acc,6,Existing paid,New Car,672,< 100 DM ,Unemployed,1,Female M/D,None,4,Real Estate,54,Own,1,Unemployed,1,Registered,No,good
+0 <= ... < 200 DM,36,All Paid,Television,3804,< 100 DM ,1-4 Years,4,Female M/D,None,1,Others,42,Own,1,Skilled,1,Registered,No,bad
+>= 200 DM,24,Dues Remain,New Car,1344,Unknown,4-7 Years,4,Male M/D,None,2,Real Estate,37,Own,2,Unskilled,2,None,No,bad
+< 0 DM,10,Dues Remain,New Car,1038,< 100 DM ,4-7 Years,4,Male M/D,Co-app,3,Building society,49,Own,2,Skilled,1,Registered,No,good
+No Acc,48,Dues Remain,New Car,10127,500-1000 DM,1-4 Years,2,Male M/D,None,2,Unknown,44,Free,1,Skilled,1,None,No,bad
+No Acc,6,Existing paid,Furniture,1543,>1000 DM,1-4 Years,4,Female S,None,2,Real Estate,33,Own,1,Skilled,1,None,No,good
+No Acc,30,Existing paid,Old Car,4811,Unknown,4-7 Years,2,Female M/D,None,4,Building society,24,Rent,1,Unskilled,1,None,No,good
+< 0 DM,12,Existing paid,Television,727,100-500 DM,1 Year,4,Male S,None,3,Unknown,33,Own,1,Unskilled,1,Registered,No,bad
+0 <= ... < 200 DM,8,Existing paid,Furniture,1237,< 100 DM ,1-4 Years,3,Female M/D,None,4,Real Estate,24,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,9,Existing paid,New Car,276,< 100 DM ,1-4 Years,4,Male S,None,4,Real Estate,22,Rent,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,48,Existing paid,Others,5381,Unknown,Unemployed,3,Male M/D,None,4,Unknown,40,Free,1,Unemployed,1,Registered,No,good
+No Acc,24,Existing paid,Furniture,5511,100-500 DM,1-4 Years,4,Male M/D,None,1,Others,25,Own,1,Skilled,1,None,No,good
+>= 200 DM,24,Existing paid,Furniture,3749,< 100 DM ,1 Year,2,Female M/D,None,4,Others,26,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,New Car,685,< 100 DM ,4-7 Years,2,Male S,None,3,Others,25,Own,1,Unskilled,1,None,No,bad
+>= 200 DM,4,Existing paid,New Car,1494,Unknown,1 Year,1,Male M/D,None,2,Real Estate,29,Own,1,Unskilled,2,None,Yes,good
+< 0 DM,36,Bank paid,Furniture,2746,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,31,Own,1,Skilled,1,None,No,bad
+< 0 DM,12,Existing paid,Furniture,708,< 100 DM ,1-4 Years,2,Male M/D,Guarantor,3,Building society,38,Own,1,Unskilled,2,None,No,good
+0 <= ... < 200 DM,24,Existing paid,Furniture,4351,Unknown,1-4 Years,1,Female M/D,None,4,Building society,48,Own,1,Unskilled,1,Registered,No,good
+No Acc,12,Dues Remain,Education,701,< 100 DM ,1-4 Years,4,Male M/D,None,2,Others,32,Own,2,Skilled,1,None,No,good
+< 0 DM,15,Delayed,Furniture,3643,< 100 DM ,>7 Years,1,Female M/D,None,4,Building society,27,Own,2,Unskilled,1,None,No,good
+0 <= ... < 200 DM,30,Dues Remain,New Car,4249,< 100 DM ,Unemployed,4,Male S,None,2,Others,28,Own,2,Highly Qualified,1,None,No,bad
+< 0 DM,24,Existing paid,Television,1938,< 100 DM ,1 Year,4,Female S,None,3,Building society,32,Own,1,Skilled,1,None,No,bad
+< 0 DM,24,Existing paid,Old Car,2910,< 100 DM ,4-7 Years,2,Male M/D,None,1,Unknown,34,Free,1,Highly Qualified,1,Registered,No,good
+< 0 DM,18,Existing paid,Furniture,2659,>1000 DM,1-4 Years,4,Male M/D,None,2,Others,28,Own,1,Skilled,1,None,No,good
+No Acc,18,Dues Remain,New Car,1028,< 100 DM ,1-4 Years,4,Female M/D,None,3,Real Estate,36,Own,2,Skilled,1,None,No,good
+< 0 DM,8,Dues Remain,New Car,3398,< 100 DM ,4-7 Years,1,Male M/D,None,4,Real Estate,39,Own,2,Unskilled,1,None,Yes,good
+No Acc,12,Dues Remain,Furniture,5801,Unknown,>7 Years,2,Male M/D,None,4,Building society,49,Rent,1,Skilled,1,Registered,No,good
+No Acc,24,Existing paid,New Car,1525,>1000 DM,4-7 Years,4,Female M/D,None,3,Others,34,Own,1,Skilled,2,Registered,No,good
+>= 200 DM,36,Existing paid,Television,4473,< 100 DM ,>7 Years,4,Male M/D,None,2,Others,31,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,6,Existing paid,Television,1068,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,28,Own,1,Skilled,2,None,No,good
+< 0 DM,24,Dues Remain,Old Car,6615,< 100 DM ,Unemployed,2,Male M/D,None,4,Unknown,75,Free,2,Highly Qualified,1,Registered,No,good
+No Acc,18,Dues Remain,Education,1864,100-500 DM,1-4 Years,4,Female M/D,None,2,Real Estate,30,Own,2,Skilled,1,None,No,bad
+0 <= ... < 200 DM,60,Existing paid,New Car,7408,100-500 DM,1 Year,4,Female M/D,None,2,Building society,24,Own,1,Highly Qualified,1,None,No,bad
+No Acc,48,Dues Remain,Old Car,11590,100-500 DM,1-4 Years,2,Female M/D,None,4,Others,24,Rent,2,Unskilled,1,None,No,bad
+< 0 DM,24,All Paid,Furniture,4110,< 100 DM ,>7 Years,3,Male M/D,None,4,Unknown,23,Rent,2,Skilled,2,None,No,bad
+< 0 DM,6,Dues Remain,Furniture,3384,< 100 DM ,1-4 Years,1,Female S,None,4,Real Estate,44,Rent,1,Highly Qualified,1,Registered,No,bad
+0 <= ... < 200 DM,13,Existing paid,Television,2101,< 100 DM ,1 Year,2,Female M/D,Guarantor,4,Building society,23,Own,1,Unskilled,1,None,No,good
+< 0 DM,15,Existing paid,Appliance,1275,Unknown,1-4 Years,4,Female M/D,None,2,Others,24,Rent,1,Skilled,1,None,No,bad
+< 0 DM,24,Existing paid,Furniture,4169,< 100 DM ,1-4 Years,4,Male M/D,None,4,Building society,28,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,10,Existing paid,Furniture,1521,< 100 DM ,1-4 Years,4,Female S,None,2,Others,31,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,24,Dues Remain,Education,5743,< 100 DM ,1 Year,2,Female M/D,None,4,Unknown,24,Free,2,Skilled,1,Registered,No,good
+< 0 DM,21,Existing paid,Furniture,3599,< 100 DM ,4-7 Years,1,Female M/D,None,4,Others,26,Rent,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,18,Existing paid,Television,3213,500-1000 DM,1 Year,1,Male S,None,3,Real Estate,25,Rent,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,18,Existing paid,Business,4439,< 100 DM ,>7 Years,1,Male M/D,Co-app,1,Real Estate,33,Own,1,Highly Qualified,1,Registered,No,good
+>= 200 DM,10,Existing paid,New Car,3949,< 100 DM ,1 Year,1,Male M/D,Guarantor,1,Building society,37,Own,1,Unskilled,2,None,No,good
+No Acc,15,Dues Remain,Television,1459,< 100 DM ,1-4 Years,4,Female M/D,None,2,Others,43,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,13,Dues Remain,Television,882,< 100 DM ,1 Year,4,Male M/D,Guarantor,4,Real Estate,23,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,24,Existing paid,Television,3758,500-1000 DM,Unemployed,1,Female M/D,None,4,Unknown,23,Rent,1,Unemployed,1,None,No,good
+No Acc,6,Delayed,Business,1743,100-500 DM,1-4 Years,1,Male M/D,None,2,Real Estate,34,Own,2,Unskilled,1,None,No,good
+0 <= ... < 200 DM,9,Dues Remain,Education,1136,>1000 DM,>7 Years,4,Male M/D,None,3,Unknown,32,Free,2,Skilled,2,None,No,bad
+No Acc,9,Existing paid,Appliance,1236,< 100 DM ,1 Year,1,Female M/D,None,4,Real Estate,23,Rent,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,9,Existing paid,Furniture,959,< 100 DM ,1-4 Years,1,Female M/D,None,2,Others,29,Own,1,Skilled,1,None,Yes,bad
+No Acc,18,Dues Remain,Old Car,3229,Unknown,Unemployed,2,Male M/D,None,4,Unknown,38,Own,1,Highly Qualified,1,Registered,No,good
+< 0 DM,12,All Paid,Television,6199,< 100 DM ,1-4 Years,4,Male M/D,None,2,Building society,28,Rent,2,Skilled,1,Registered,No,bad
+No Acc,10,Existing paid,Education,727,500-1000 DM,>7 Years,4,Male M/D,None,4,Unknown,46,Free,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,24,Existing paid,New Car,1246,< 100 DM ,1 Year,4,Male M/D,None,2,Real Estate,23,Own,1,Unskilled,1,None,No,bad
+No Acc,12,Dues Remain,Television,2331,Unknown,>7 Years,1,Male M/D,Co-app,4,Real Estate,49,Own,1,Skilled,1,Registered,No,good
+No Acc,36,Delayed,Television,4463,< 100 DM ,1-4 Years,4,Male M/D,None,2,Others,26,Own,2,Highly Qualified,1,Registered,No,bad
+No Acc,12,Existing paid,Television,776,< 100 DM ,1-4 Years,4,Male S,None,2,Real Estate,28,Own,1,Skilled,1,None,No,good
+< 0 DM,30,Existing paid,Furniture,2406,< 100 DM ,4-7 Years,4,Female M/D,None,4,Real Estate,23,Rent,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,18,Existing paid,Education,1239,Unknown,1-4 Years,4,Male M/D,None,4,Unknown,61,Free,1,Skilled,1,None,No,good
+>= 200 DM,12,Existing paid,Television,3399,Unknown,>7 Years,2,Male M/D,None,3,Others,37,Own,1,Highly Qualified,1,None,No,good
+>= 200 DM,12,Delayed,New Car,2247,< 100 DM ,1-4 Years,2,Female M/D,None,2,Others,36,Own,2,Skilled,1,Registered,No,good
+No Acc,6,Existing paid,Furniture,1766,< 100 DM ,1-4 Years,1,Male S,None,2,Building society,21,Rent,1,Skilled,1,None,No,good
+< 0 DM,18,Existing paid,Furniture,2473,< 100 DM ,Unemployed,4,Male M/D,None,1,Others,25,Own,1,Unemployed,1,None,No,bad
+No Acc,12,Existing paid,Business,1542,< 100 DM ,4-7 Years,2,Male M/D,None,4,Others,36,Own,1,Skilled,1,Registered,No,good
+No Acc,18,Dues Remain,Old Car,3850,< 100 DM ,4-7 Years,3,Male M/D,None,1,Others,27,Own,2,Skilled,1,None,No,good
+< 0 DM,18,Existing paid,Furniture,3650,< 100 DM ,1 Year,1,Female M/D,None,4,Others,22,Rent,1,Skilled,1,None,No,good
+< 0 DM,36,Existing paid,Furniture,3446,< 100 DM ,>7 Years,4,Male M/D,None,2,Others,42,Own,1,Skilled,2,None,No,bad
+0 <= ... < 200 DM,18,Existing paid,Furniture,3001,< 100 DM ,4-7 Years,2,Female M/D,None,4,Real Estate,40,Rent,1,Skilled,1,None,No,good
+No Acc,36,Existing paid,New Car,3079,Unknown,1-4 Years,4,Male M/D,None,4,Real Estate,36,Own,1,Skilled,1,None,No,good
+No Acc,18,Dues Remain,Television,6070,< 100 DM ,>7 Years,3,Male M/D,None,4,Others,33,Own,2,Skilled,1,Registered,No,good
+No Acc,10,Dues Remain,Furniture,2146,< 100 DM ,1 Year,1,Female M/D,None,3,Real Estate,23,Rent,2,Skilled,1,None,No,good
+No Acc,60,Dues Remain,New Car,13756,Unknown,>7 Years,2,Male M/D,None,4,Unknown,63,Free,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,60,Bank paid,Others,14782,100-500 DM,>7 Years,3,Female M/D,None,4,Unknown,60,Free,2,Highly Qualified,1,Registered,No,bad
+< 0 DM,48,Bank paid,Business,7685,< 100 DM ,4-7 Years,2,Female M/D,Guarantor,4,Others,37,Rent,1,Skilled,1,None,No,bad
+No Acc,18,Delayed,Television,2320,< 100 DM ,Unemployed,2,Male S,None,3,Real Estate,34,Own,2,Skilled,1,None,No,good
+No Acc,7,Delayed,Television,846,Unknown,>7 Years,3,Male M/D,None,4,Unknown,36,Free,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,36,Existing paid,New Car,14318,< 100 DM ,>7 Years,4,Male M/D,None,2,Unknown,57,Free,1,Highly Qualified,1,Registered,No,bad
+No Acc,6,Dues Remain,New Car,362,100-500 DM,1-4 Years,4,Female M/D,None,4,Others,52,Own,2,Unskilled,1,None,No,good
+< 0 DM,20,Existing paid,Furniture,2212,Unknown,4-7 Years,4,Male M/D,None,4,Others,39,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,18,Existing paid,Old Car,12976,< 100 DM ,Unemployed,3,Female M/D,None,4,Unknown,38,Free,1,Highly Qualified,1,Registered,No,bad
+No Acc,22,Existing paid,New Car,1283,Unknown,4-7 Years,4,Female M/D,None,4,Building society,25,Rent,1,Skilled,1,None,No,good
+>= 200 DM,12,Existing paid,New Car,1330,< 100 DM ,1 Year,4,Male M/D,None,1,Real Estate,26,Own,1,Skilled,1,None,No,good
+No Acc,30,Delayed,Business,4272,100-500 DM,1-4 Years,2,Male M/D,None,2,Building society,26,Own,2,Unskilled,1,None,No,good
+No Acc,18,Dues Remain,Television,2238,< 100 DM ,1-4 Years,2,Female M/D,None,1,Others,25,Own,2,Skilled,1,None,No,good
+No Acc,18,Existing paid,Television,1126,Unknown,1 Year,4,Female M/D,None,2,Real Estate,21,Rent,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,18,Dues Remain,Furniture,7374,< 100 DM ,Unemployed,4,Male M/D,None,4,Building society,40,Own,2,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,15,Dues Remain,Business,2326,500-1000 DM,1-4 Years,2,Male M/D,None,4,Others,27,Own,1,Skilled,1,None,No,good
+No Acc,9,Existing paid,Business,1449,< 100 DM ,4-7 Years,3,Female M/D,None,2,Others,27,Own,2,Skilled,1,None,No,good
+No Acc,18,Existing paid,New Car,1820,< 100 DM ,1-4 Years,2,Male S,None,2,Building society,30,Own,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,12,Existing paid,Furniture,983,>1000 DM,1 Year,1,Female M/D,None,4,Real Estate,19,Rent,1,Unskilled,1,None,No,good
+< 0 DM,36,Existing paid,New Car,3249,< 100 DM ,4-7 Years,2,Male M/D,None,4,Unknown,39,Free,1,Highly Qualified,2,Registered,No,good
+< 0 DM,6,Dues Remain,Television,1957,< 100 DM ,4-7 Years,1,Female M/D,None,4,Others,31,Own,1,Skilled,1,None,No,good
+No Acc,9,Dues Remain,Furniture,2406,< 100 DM ,Unemployed,2,Male M/D,None,3,Others,31,Own,1,Highly Qualified,1,None,No,good
+0 <= ... < 200 DM,39,Delayed,Education,11760,100-500 DM,4-7 Years,2,Male M/D,None,3,Unknown,32,Rent,1,Skilled,1,Registered,No,good
+< 0 DM,12,Existing paid,Furniture,2578,< 100 DM ,Unemployed,3,Female M/D,None,4,Unknown,55,Free,1,Highly Qualified,1,None,No,good
+< 0 DM,36,Dues Remain,Furniture,2348,< 100 DM ,1-4 Years,3,Male S,None,2,Building society,46,Own,2,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,12,Existing paid,New Car,1223,< 100 DM ,>7 Years,1,Female S,None,1,Real Estate,46,Rent,2,Skilled,1,None,No,bad
+No Acc,24,Dues Remain,Television,1516,>1000 DM,1-4 Years,4,Female M/D,None,1,Real Estate,43,Own,2,Unskilled,1,None,No,good
+No Acc,18,Existing paid,Television,1473,< 100 DM ,1 Year,3,Male S,None,4,Real Estate,39,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,18,Dues Remain,Business,1887,Unknown,1-4 Years,4,Male S,None,4,Real Estate,28,Own,2,Skilled,1,None,No,good
+No Acc,24,Delayed,Business,8648,< 100 DM ,1 Year,2,Male M/D,None,2,Others,27,Own,2,Skilled,1,Registered,No,bad
+No Acc,14,Delayed,New Car,802,< 100 DM ,1-4 Years,4,Male M/D,None,2,Others,27,Own,2,Unskilled,1,None,No,good
+0 <= ... < 200 DM,18,Delayed,New Car,2899,Unknown,>7 Years,4,Male M/D,None,4,Others,43,Own,1,Skilled,2,None,No,good
+0 <= ... < 200 DM,24,Existing paid,Television,2039,< 100 DM ,1 Year,1,Male S,None,1,Building society,22,Own,1,Skilled,1,Registered,No,bad
+No Acc,24,Dues Remain,Old Car,2197,Unknown,4-7 Years,4,Male M/D,None,4,Others,43,Own,2,Skilled,2,Registered,No,good
+< 0 DM,15,Existing paid,Television,1053,< 100 DM ,1 Year,4,Male S,None,2,Real Estate,27,Own,1,Skilled,1,None,Yes,good
+No Acc,24,Existing paid,Television,3235,500-1000 DM,>7 Years,3,Female S,None,2,Others,26,Own,1,Highly Qualified,1,Registered,No,good
+>= 200 DM,12,Dues Remain,New Car,939,500-1000 DM,4-7 Years,4,Male S,None,2,Real Estate,28,Own,3,Skilled,1,Registered,No,bad
+0 <= ... < 200 DM,24,Existing paid,Television,1967,< 100 DM ,>7 Years,4,Female M/D,None,4,Others,20,Own,1,Skilled,1,Registered,No,good
+No Acc,33,Dues Remain,Old Car,7253,< 100 DM ,4-7 Years,3,Male M/D,None,2,Others,35,Own,2,Highly Qualified,1,Registered,No,good
+No Acc,12,Dues Remain,Business,2292,< 100 DM ,Unemployed,4,Male M/D,None,2,Others,42,Own,2,Highly Qualified,1,Registered,No,bad
+No Acc,10,Existing paid,New Car,1597,500-1000 DM,1-4 Years,3,Male M/D,None,2,Unknown,40,Rent,1,Unskilled,2,None,Yes,good
+< 0 DM,24,Existing paid,New Car,1381,Unknown,1-4 Years,4,Female M/D,None,2,Building society,35,Own,1,Skilled,1,None,No,bad
+No Acc,36,Dues Remain,Old Car,5842,< 100 DM ,>7 Years,2,Male M/D,None,2,Building society,35,Own,2,Skilled,2,Registered,No,good
+< 0 DM,12,Existing paid,New Car,2579,< 100 DM ,1 Year,4,Male M/D,None,1,Real Estate,33,Own,1,Unskilled,2,None,No,bad
+< 0 DM,18,Delayed,Education,8471,Unknown,1-4 Years,1,Female M/D,None,2,Others,23,Rent,2,Skilled,1,Registered,No,good
+No Acc,21,Existing paid,New Car,2782,500-1000 DM,4-7 Years,1,Female M/D,None,2,Others,31,Own,1,Highly Qualified,1,None,No,good
+0 <= ... < 200 DM,18,Existing paid,New Car,1042,Unknown,1-4 Years,4,Female M/D,None,2,Building society,33,Own,1,Skilled,1,None,No,bad
+No Acc,15,Existing paid,New Car,3186,>1000 DM,4-7 Years,2,Female M/D,None,3,Others,20,Rent,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Old Car,2028,Unknown,1-4 Years,4,Male M/D,None,2,Others,30,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Dues Remain,New Car,958,< 100 DM ,4-7 Years,2,Male M/D,None,3,Real Estate,47,Own,2,Unskilled,2,None,No,good
+No Acc,21,Delayed,Furniture,1591,100-500 DM,4-7 Years,4,Male M/D,None,3,Real Estate,34,Own,2,Highly Qualified,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Furniture,2762,Unknown,>7 Years,1,Female M/D,None,2,Building society,25,Own,1,Skilled,1,Registered,No,bad
+0 <= ... < 200 DM,18,Existing paid,Old Car,2779,< 100 DM ,1-4 Years,1,Male S,None,3,Others,21,Rent,1,Skilled,1,Registered,No,good
+No Acc,28,Dues Remain,Television,2743,< 100 DM ,>7 Years,4,Male M/D,None,2,Others,29,Own,2,Skilled,1,None,No,good
+No Acc,18,Dues Remain,Television,1149,>1000 DM,1-4 Years,4,Male M/D,None,3,Real Estate,46,Own,2,Skilled,1,None,No,good
+No Acc,9,Existing paid,Furniture,1313,< 100 DM ,>7 Years,1,Male M/D,None,4,Others,20,Own,1,Skilled,1,None,No,good
+< 0 DM,18,Dues Remain,Repairs,1190,< 100 DM ,Unemployed,2,Female M/D,None,4,Unknown,55,Free,3,Unemployed,2,None,No,bad
+No Acc,5,Existing paid,Business,3448,< 100 DM ,4-7 Years,1,Male M/D,None,4,Real Estate,74,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,24,Existing paid,Others,11328,< 100 DM ,1-4 Years,2,Male M/D,Co-app,3,Others,29,Own,2,Highly Qualified,1,Registered,No,bad
+< 0 DM,6,Dues Remain,Furniture,1872,< 100 DM ,Unemployed,4,Male M/D,None,4,Unknown,36,Free,3,Highly Qualified,1,Registered,No,good
+No Acc,24,Dues Remain,Repairs,2058,< 100 DM ,1-4 Years,4,Female S,None,2,Real Estate,33,Own,2,Skilled,1,Registered,No,good
+< 0 DM,9,Existing paid,Furniture,2136,< 100 DM ,1-4 Years,3,Male M/D,None,2,Real Estate,25,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Television,1484,Unknown,1-4 Years,2,Male S,None,1,Real Estate,25,Own,1,Skilled,1,Registered,No,bad
+No Acc,6,Existing paid,Repairs,660,500-1000 DM,4-7 Years,2,Male S,None,4,Real Estate,23,Rent,1,Unskilled,1,None,No,good
+No Acc,24,Dues Remain,New Car,1287,>1000 DM,>7 Years,4,Female M/D,None,4,Real Estate,37,Own,2,Skilled,1,Registered,No,good
+< 0 DM,42,Dues Remain,Repairs,3394,< 100 DM ,Unemployed,4,Male M/D,Co-app,4,Others,65,Own,2,Unemployed,1,None,No,good
+>= 200 DM,12,Bank paid,Business,609,< 100 DM ,1 Year,4,Female M/D,None,1,Real Estate,26,Own,1,Unemployed,1,None,No,bad
+No Acc,12,Existing paid,New Car,1884,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,39,Own,1,Highly Qualified,1,Registered,No,good
+< 0 DM,12,Existing paid,Furniture,1620,< 100 DM ,1-4 Years,2,Female M/D,Co-app,3,Building society,30,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,20,Delayed,Others,2629,< 100 DM ,1-4 Years,2,Male M/D,None,3,Others,29,Own,2,Skilled,1,Registered,No,good
+No Acc,12,Existing paid,Education,719,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,41,Own,1,Unskilled,2,None,No,bad
+0 <= ... < 200 DM,48,Dues Remain,Furniture,5096,< 100 DM ,1-4 Years,2,Female M/D,None,3,Others,30,Own,1,Highly Qualified,1,Registered,No,bad
+No Acc,9,Dues Remain,Education,1244,Unknown,>7 Years,4,Female M/D,None,4,Building society,41,Rent,2,Unskilled,1,None,No,good
+< 0 DM,36,Existing paid,New Car,1842,< 100 DM ,1 Year,4,Female M/D,None,4,Others,34,Own,1,Skilled,1,Registered,No,bad
+0 <= ... < 200 DM,7,Existing paid,Television,2576,< 100 DM ,1-4 Years,2,Male M/D,Guarantor,2,Real Estate,35,Own,1,Skilled,1,None,No,good
+>= 200 DM,12,Existing paid,Furniture,1424,Unknown,>7 Years,3,Female M/D,None,4,Real Estate,55,Own,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,15,Delayed,Repairs,1512,>1000 DM,1-4 Years,3,Male S,None,3,Building society,61,Own,2,Skilled,1,None,No,bad
+No Acc,36,Dues Remain,Old Car,11054,Unknown,1-4 Years,4,Male M/D,None,2,Others,30,Own,1,Highly Qualified,1,Registered,No,good
+No Acc,6,Existing paid,Television,518,< 100 DM ,1-4 Years,3,Female M/D,None,1,Real Estate,29,Own,1,Skilled,1,None,No,good
+No Acc,12,All Paid,Furniture,2759,< 100 DM ,>7 Years,2,Male M/D,None,4,Building society,34,Own,2,Skilled,1,None,No,good
+No Acc,24,Existing paid,Old Car,2670,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,35,Own,1,Highly Qualified,1,Registered,No,good
+< 0 DM,24,Existing paid,New Car,4817,< 100 DM ,4-7 Years,2,Male M/D,Co-app,3,Building society,31,Own,1,Skilled,1,Registered,No,bad
+No Acc,24,Existing paid,Old Car,2679,< 100 DM ,1 Year,4,Female M/D,None,1,Unknown,29,Own,1,Highly Qualified,1,Registered,No,good
+< 0 DM,11,Dues Remain,New Car,3905,< 100 DM ,1-4 Years,2,Male M/D,None,2,Real Estate,36,Rent,2,Skilled,2,None,No,good
+< 0 DM,12,Existing paid,Old Car,3386,< 100 DM ,>7 Years,3,Male M/D,None,4,Unknown,35,Free,1,Skilled,1,Registered,No,bad
+< 0 DM,6,Existing paid,Appliance,343,< 100 DM ,1 Year,4,Female M/D,None,1,Real Estate,27,Own,1,Skilled,1,None,No,good
+No Acc,18,Existing paid,Television,4594,< 100 DM ,1 Year,3,Male M/D,None,2,Others,32,Own,1,Skilled,1,Registered,No,good
+< 0 DM,36,Existing paid,Furniture,3620,< 100 DM ,1-4 Years,1,Male M/D,Guarantor,2,Building society,37,Own,1,Skilled,2,None,No,good
+< 0 DM,15,Existing paid,New Car,1721,< 100 DM ,1 Year,2,Male M/D,None,3,Real Estate,36,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Furniture,3017,< 100 DM ,1 Year,3,Female M/D,None,1,Real Estate,34,Rent,1,Highly Qualified,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Retraining,754,Unknown,>7 Years,4,Male M/D,None,4,Building society,38,Own,2,Skilled,1,None,No,good
+No Acc,18,Existing paid,Business,1950,< 100 DM ,4-7 Years,4,Male M/D,None,1,Others,34,Own,2,Skilled,1,Registered,No,good
+< 0 DM,24,Existing paid,Old Car,2924,< 100 DM ,1-4 Years,3,Male M/D,Guarantor,4,Unknown,63,Own,1,Skilled,2,Registered,No,good
+< 0 DM,24,Delayed,Television,1659,< 100 DM ,1 Year,4,Female M/D,None,2,Others,29,Rent,1,Unskilled,1,Registered,No,bad
+No Acc,48,Delayed,Television,7238,Unknown,>7 Years,3,Male M/D,None,3,Others,32,Own,2,Skilled,2,None,No,good
+No Acc,33,Delayed,Business,2764,< 100 DM ,1-4 Years,2,Female M/D,None,2,Others,26,Own,2,Skilled,1,Registered,No,good
+No Acc,24,Delayed,Old Car,4679,< 100 DM ,4-7 Years,3,Male M/D,None,3,Others,35,Own,2,Unskilled,1,Registered,No,good
+0 <= ... < 200 DM,24,Existing paid,Television,3092,100-500 DM,1 Year,3,Male S,None,2,Others,22,Rent,1,Skilled,1,Registered,No,bad
+< 0 DM,6,Existing paid,Education,448,< 100 DM ,1 Year,4,Female M/D,None,4,Building society,23,Own,1,Skilled,1,None,No,bad
+< 0 DM,9,Existing paid,New Car,654,< 100 DM ,1-4 Years,4,Male M/D,None,3,Others,28,Own,1,Unskilled,1,None,No,bad
+No Acc,6,Existing paid,Retraining,1238,Unknown,Unemployed,4,Male M/D,None,4,Building society,36,Own,1,Highly Qualified,2,Registered,No,good
+0 <= ... < 200 DM,18,Dues Remain,Television,1245,< 100 DM ,1-4 Years,4,Male S,None,2,Others,33,Own,1,Skilled,1,None,No,bad
+< 0 DM,18,All Paid,Furniture,3114,< 100 DM ,1 Year,1,Female M/D,None,4,Building society,26,Rent,1,Skilled,1,None,No,bad
+No Acc,39,Existing paid,Old Car,2569,500-1000 DM,1-4 Years,4,Male M/D,None,4,Others,24,Own,1,Skilled,1,None,No,good
+>= 200 DM,24,Existing paid,Television,5152,< 100 DM ,4-7 Years,4,Male M/D,None,2,Others,25,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Business,1037,100-500 DM,4-7 Years,3,Male M/D,None,4,Real Estate,39,Own,1,Unskilled,1,None,No,good
+< 0 DM,15,Dues Remain,Furniture,1478,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,44,Own,2,Skilled,2,Registered,No,good
+0 <= ... < 200 DM,12,Dues Remain,Television,3573,< 100 DM ,1-4 Years,1,Female M/D,None,1,Real Estate,23,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,24,Existing paid,New Car,1201,< 100 DM ,1 Year,4,Male M/D,None,1,Building society,26,Own,1,Skilled,1,None,No,good
+< 0 DM,30,Existing paid,Furniture,3622,>1000 DM,>7 Years,4,Female M/D,None,4,Building society,57,Rent,2,Skilled,1,Registered,No,good
+No Acc,15,Delayed,Furniture,960,>1000 DM,4-7 Years,3,Female M/D,None,2,Building society,30,Own,2,Skilled,1,None,No,good
+No Acc,12,Dues Remain,New Car,1163,500-1000 DM,1-4 Years,4,Male M/D,None,4,Real Estate,44,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,6,Delayed,New Car,1209,< 100 DM ,Unemployed,4,Male M/D,None,4,Building society,47,Own,1,Highly Qualified,1,Registered,No,bad
+No Acc,12,Existing paid,Television,3077,< 100 DM ,1-4 Years,2,Male M/D,None,4,Others,52,Own,1,Skilled,1,Registered,No,good
+No Acc,24,Existing paid,New Car,3757,< 100 DM ,>7 Years,4,Female M/D,Co-app,4,Unknown,62,Free,1,Skilled,1,Registered,No,good
+No Acc,10,Existing paid,New Car,1418,100-500 DM,1-4 Years,3,Male M/D,None,2,Real Estate,35,Rent,1,Unskilled,1,None,Yes,good
+No Acc,6,Existing paid,New Car,3518,< 100 DM ,1-4 Years,2,Male M/D,Guarantor,3,Building society,26,Rent,1,Skilled,1,None,No,good
+No Acc,12,Dues Remain,Television,1934,< 100 DM ,>7 Years,2,Male M/D,None,2,Unknown,26,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,27,All Paid,Business,8318,< 100 DM ,>7 Years,2,Female M/D,None,4,Unknown,42,Free,2,Highly Qualified,1,Registered,No,bad
+No Acc,6,Dues Remain,Television,1237,100-500 DM,1-4 Years,1,Female M/D,None,1,Building society,27,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,6,Existing paid,Television,368,Unknown,>7 Years,4,Male M/D,None,4,Building society,38,Own,1,Skilled,1,None,No,good
+< 0 DM,12,Dues Remain,New Car,2122,< 100 DM ,1-4 Years,3,Male M/D,None,2,Real Estate,39,Rent,2,Unskilled,2,None,Yes,good
+< 0 DM,24,Existing paid,Furniture,2996,Unknown,1-4 Years,2,Male S,None,4,Others,20,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,36,Existing paid,Furniture,9034,100-500 DM,1 Year,4,Male M/D,Co-app,1,Unknown,29,Rent,1,Highly Qualified,1,Registered,No,bad
+No Acc,24,Dues Remain,Furniture,1585,< 100 DM ,4-7 Years,4,Male M/D,None,3,Building society,40,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,18,Existing paid,Television,1301,< 100 DM ,>7 Years,4,Male S,Guarantor,2,Real Estate,32,Own,1,Unskilled,1,None,No,good
+>= 200 DM,6,Dues Remain,New Car,1323,100-500 DM,>7 Years,2,Female S,None,4,Others,28,Own,2,Skilled,2,Registered,No,good
+< 0 DM,24,Existing paid,New Car,3123,< 100 DM ,1 Year,4,Female M/D,None,1,Building society,27,Own,1,Skilled,1,None,No,bad
+< 0 DM,36,Existing paid,Old Car,5493,< 100 DM ,>7 Years,2,Male M/D,None,4,Unknown,42,Free,1,Skilled,2,None,No,good
+>= 200 DM,9,Existing paid,Television,1126,100-500 DM,>7 Years,2,Female S,None,4,Real Estate,49,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,24,Dues Remain,Television,1216,100-500 DM,1 Year,4,Male M/D,None,4,Unknown,38,Own,2,Skilled,2,None,No,bad
+< 0 DM,24,Existing paid,New Car,1207,< 100 DM ,1 Year,4,Female M/D,None,4,Building society,24,Rent,1,Skilled,1,None,No,bad
+No Acc,10,Existing paid,New Car,1309,Unknown,1-4 Years,4,Male M/D,Guarantor,4,Building society,27,Own,1,Unskilled,1,None,No,bad
+>= 200 DM,15,Dues Remain,Old Car,2360,500-1000 DM,1-4 Years,2,Male M/D,None,2,Others,36,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,15,Bank paid,New Car,6850,100-500 DM,Unemployed,1,Male M/D,None,2,Building society,34,Own,1,Highly Qualified,2,Registered,No,bad
+No Acc,24,Existing paid,Television,1413,< 100 DM ,1-4 Years,4,Male S,None,2,Building society,28,Own,1,Skilled,1,None,No,good
+No Acc,39,Existing paid,Old Car,8588,100-500 DM,>7 Years,4,Male M/D,None,2,Others,45,Own,1,Highly Qualified,1,Registered,No,good
+< 0 DM,12,Existing paid,New Car,759,< 100 DM ,4-7 Years,4,Male M/D,None,2,Real Estate,26,Own,1,Skilled,1,None,No,bad
+No Acc,36,Existing paid,Old Car,4686,< 100 DM ,1-4 Years,2,Male M/D,None,2,Unknown,32,Free,1,Highly Qualified,1,Registered,No,good
+>= 200 DM,15,Existing paid,Business,2687,< 100 DM ,4-7 Years,2,Male M/D,None,4,Building society,26,Rent,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,12,Delayed,Television,585,< 100 DM ,1-4 Years,4,Male S,Co-app,4,Real Estate,20,Rent,2,Skilled,1,None,No,good
+No Acc,24,Existing paid,New Car,2255,Unknown,1 Year,4,Male M/D,None,1,Building society,54,Own,1,Skilled,1,None,No,good
+< 0 DM,6,Dues Remain,New Car,609,< 100 DM ,4-7 Years,4,Female M/D,None,3,Building society,37,Own,2,Skilled,1,None,Yes,good
+< 0 DM,6,Dues Remain,New Car,1361,< 100 DM ,1 Year,2,Male M/D,None,4,Real Estate,40,Own,1,Unskilled,2,None,Yes,good
+No Acc,36,Dues Remain,Furniture,7127,< 100 DM ,1 Year,2,Female M/D,None,4,Building society,23,Rent,2,Skilled,1,Registered,No,bad
+< 0 DM,6,Existing paid,New Car,1203,100-500 DM,>7 Years,3,Male M/D,None,2,Building society,43,Own,1,Skilled,1,Registered,No,good
+No Acc,6,Dues Remain,Television,700,Unknown,>7 Years,4,Male M/D,None,4,Unknown,36,Free,2,Skilled,1,None,No,good
+No Acc,24,Dues Remain,Repairs,5507,< 100 DM ,>7 Years,3,Male M/D,None,4,Unknown,44,Free,2,Skilled,1,None,No,good
+< 0 DM,18,Existing paid,Television,3190,< 100 DM ,1-4 Years,2,Female M/D,None,2,Real Estate,24,Own,1,Skilled,1,None,No,bad
+< 0 DM,48,All Paid,Furniture,7119,< 100 DM ,1-4 Years,3,Male M/D,None,4,Unknown,53,Free,2,Skilled,2,None,No,bad
+No Acc,24,Existing paid,Old Car,3488,100-500 DM,4-7 Years,3,Female M/D,None,4,Others,23,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,18,Existing paid,Television,1113,< 100 DM ,1-4 Years,4,Female M/D,Guarantor,4,Real Estate,26,Own,1,Unskilled,2,None,No,good
+0 <= ... < 200 DM,26,Existing paid,Old Car,7966,< 100 DM ,1 Year,2,Male M/D,None,3,Others,30,Own,2,Skilled,1,None,No,good
+No Acc,15,Dues Remain,Education,1532,100-500 DM,1-4 Years,4,Female M/D,None,3,Others,31,Own,1,Skilled,1,None,No,good
+No Acc,4,Dues Remain,Television,1503,< 100 DM ,4-7 Years,2,Male M/D,None,1,Real Estate,42,Own,2,Unskilled,2,None,No,good
+< 0 DM,36,Existing paid,Television,2302,< 100 DM ,1-4 Years,4,Female S,None,4,Others,31,Rent,1,Skilled,1,None,No,bad
+< 0 DM,6,Existing paid,New Car,662,< 100 DM ,1 Year,3,Male M/D,None,4,Real Estate,41,Own,1,Unskilled,2,Registered,No,good
+0 <= ... < 200 DM,36,Existing paid,Education,2273,< 100 DM ,4-7 Years,3,Male M/D,None,1,Others,32,Own,2,Skilled,2,None,No,good
+0 <= ... < 200 DM,15,Existing paid,New Car,2631,100-500 DM,1-4 Years,2,Female M/D,None,4,Others,28,Rent,2,Skilled,1,Registered,No,bad
+No Acc,12,Delayed,Old Car,1503,< 100 DM ,1-4 Years,4,Male S,None,4,Real Estate,41,Rent,1,Skilled,1,None,No,good
+No Acc,24,Existing paid,Television,1311,100-500 DM,4-7 Years,4,Male S,None,3,Building society,26,Own,1,Skilled,1,Registered,No,good
+No Acc,24,Existing paid,Television,3105,Unknown,1 Year,4,Male M/D,None,2,Others,25,Own,2,Skilled,1,None,No,good
+>= 200 DM,21,Dues Remain,Education,2319,< 100 DM ,1 Year,2,Female S,None,1,Others,33,Rent,1,Skilled,1,None,No,bad
+< 0 DM,6,Existing paid,New Car,1374,Unknown,Unemployed,4,Female M/D,None,3,Building society,75,Own,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,18,Dues Remain,Furniture,3612,< 100 DM ,>7 Years,3,Female M/D,None,4,Building society,37,Own,1,Skilled,1,Registered,No,good
+< 0 DM,48,Existing paid,New Car,7763,< 100 DM ,>7 Years,4,Male M/D,None,4,Unknown,42,Free,1,Highly Qualified,1,None,No,bad
+>= 200 DM,18,Existing paid,Furniture,3049,< 100 DM ,1 Year,1,Female M/D,None,1,Building society,45,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Television,1534,< 100 DM ,1 Year,1,Male S,None,1,Real Estate,23,Rent,1,Skilled,1,None,No,bad
+No Acc,24,Delayed,New Car,2032,< 100 DM ,>7 Years,4,Male M/D,None,4,Unknown,60,Free,2,Skilled,1,Registered,No,good
+< 0 DM,30,Existing paid,Furniture,6350,Unknown,>7 Years,4,Male M/D,None,4,Building society,31,Own,1,Skilled,1,None,No,bad
+>= 200 DM,18,Existing paid,Furniture,2864,< 100 DM ,1-4 Years,2,Male M/D,None,1,Real Estate,34,Own,1,Unskilled,2,None,No,bad
+No Acc,12,Dues Remain,New Car,1255,< 100 DM ,>7 Years,4,Male M/D,None,4,Real Estate,61,Own,2,Unskilled,1,None,No,good
+< 0 DM,24,Delayed,New Car,1333,< 100 DM ,Unemployed,4,Male M/D,None,2,Real Estate,43,Free,2,Skilled,2,None,No,bad
+No Acc,24,Dues Remain,New Car,2022,< 100 DM ,1-4 Years,4,Female M/D,None,4,Others,37,Own,1,Skilled,1,Registered,No,good
+No Acc,24,Existing paid,Television,1552,< 100 DM ,4-7 Years,3,Male M/D,None,1,Others,32,Own,1,Skilled,2,None,No,good
+< 0 DM,12,Bank paid,Television,626,< 100 DM ,1-4 Years,4,Female M/D,None,4,Real Estate,24,Own,1,Unskilled,1,None,No,bad
+No Acc,48,Dues Remain,Old Car,8858,Unknown,4-7 Years,2,Male M/D,None,1,Unknown,35,Free,2,Skilled,1,Registered,No,good
+No Acc,12,Dues Remain,Repairs,996,Unknown,4-7 Years,4,Female M/D,None,4,Real Estate,23,Own,2,Skilled,1,None,No,good
+No Acc,6,Bank paid,Television,1750,500-1000 DM,>7 Years,2,Male M/D,None,4,Building society,45,Own,1,Unskilled,2,None,No,good
+< 0 DM,48,Existing paid,Television,6999,< 100 DM ,4-7 Years,1,Male S,Guarantor,1,Real Estate,34,Own,2,Skilled,1,Registered,No,bad
+0 <= ... < 200 DM,12,Dues Remain,New Car,1995,100-500 DM,1 Year,4,Male M/D,None,1,Others,27,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,9,Existing paid,Education,1199,< 100 DM ,4-7 Years,4,Female M/D,None,4,Building society,67,Own,2,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,12,Existing paid,Television,1331,< 100 DM ,1 Year,2,Male M/D,None,1,Others,22,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,18,All Paid,New Car,2278,100-500 DM,1 Year,3,Female M/D,None,3,Others,28,Own,2,Skilled,1,None,No,bad
+No Acc,21,All Paid,New Car,5003,Unknown,1-4 Years,1,Female M/D,None,4,Building society,29,Own,2,Skilled,1,Registered,No,bad
+< 0 DM,24,Bank paid,Furniture,3552,< 100 DM ,4-7 Years,3,Male M/D,None,4,Others,27,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,18,Dues Remain,Furniture,1928,< 100 DM ,1 Year,2,Male M/D,None,2,Real Estate,31,Own,2,Unskilled,1,None,No,bad
+< 0 DM,24,Existing paid,Old Car,2964,Unknown,>7 Years,4,Male M/D,None,4,Unknown,49,Free,1,Skilled,2,Registered,No,good
+< 0 DM,24,Bank paid,Television,1546,< 100 DM ,4-7 Years,4,Male M/D,Guarantor,4,Others,24,Rent,1,Unskilled,1,None,No,bad
+>= 200 DM,6,Delayed,Television,683,< 100 DM ,1 Year,2,Female M/D,None,1,Building society,29,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,36,Existing paid,New Car,12389,Unknown,1-4 Years,1,Male M/D,None,4,Unknown,37,Free,1,Skilled,1,Registered,No,bad
+0 <= ... < 200 DM,24,Delayed,Business,4712,Unknown,1-4 Years,4,Male M/D,None,2,Building society,37,Own,2,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,24,Delayed,Television,1553,100-500 DM,4-7 Years,3,Female M/D,None,2,Building society,23,Rent,2,Skilled,1,Registered,No,good
+< 0 DM,12,Existing paid,New Car,1372,< 100 DM ,4-7 Years,2,Female S,None,3,Others,36,Own,1,Skilled,1,None,No,bad
+No Acc,24,Dues Remain,Television,2578,>1000 DM,>7 Years,2,Male M/D,None,2,Others,34,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,48,Existing paid,Television,3979,Unknown,4-7 Years,4,Male M/D,None,1,Others,41,Own,2,Skilled,2,Registered,No,good
+< 0 DM,48,Existing paid,Television,6758,< 100 DM ,1-4 Years,3,Female M/D,None,2,Others,31,Own,1,Skilled,1,Registered,No,bad
+< 0 DM,24,Existing paid,Furniture,3234,< 100 DM ,1 Year,4,Female M/D,None,4,Real Estate,23,Rent,1,Unskilled,1,Registered,No,bad
+No Acc,30,Dues Remain,Television,5954,< 100 DM ,4-7 Years,3,Male M/D,Co-app,2,Others,38,Own,1,Skilled,1,None,No,good
+No Acc,24,Existing paid,Old Car,5433,Unknown,Unemployed,2,Female M/D,None,4,Building society,26,Rent,1,Highly Qualified,1,Registered,No,good
+< 0 DM,15,Existing paid,Business,806,< 100 DM ,1-4 Years,4,Female M/D,None,4,Building society,22,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,9,Existing paid,Television,1082,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,27,Own,2,Unskilled,1,None,No,good
+No Acc,15,Dues Remain,Furniture,2788,< 100 DM ,4-7 Years,2,Female M/D,Co-app,3,Others,24,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Television,2930,< 100 DM ,4-7 Years,2,Female M/D,None,1,Real Estate,27,Own,1,Skilled,1,None,No,good
+No Acc,24,Dues Remain,Education,1927,Unknown,1-4 Years,3,Female M/D,None,2,Others,33,Own,2,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,36,Dues Remain,New Car,2820,< 100 DM ,1 Year,4,Female S,None,4,Others,27,Own,2,Skilled,1,None,No,bad
+No Acc,24,Existing paid,Retraining,937,< 100 DM ,1 Year,4,Male S,None,3,Others,27,Own,2,Unskilled,1,None,No,good
+0 <= ... < 200 DM,18,Dues Remain,New Car,1056,< 100 DM ,>7 Years,3,Male M/D,Guarantor,3,Real Estate,30,Own,2,Skilled,1,None,No,bad
+0 <= ... < 200 DM,12,Dues Remain,New Car,3124,< 100 DM ,1 Year,1,Male M/D,None,3,Real Estate,49,Own,2,Unskilled,2,None,No,good
+No Acc,9,Existing paid,Furniture,1388,< 100 DM ,1-4 Years,4,Female M/D,None,2,Real Estate,26,Rent,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,36,Existing paid,Repairs,2384,< 100 DM ,1 Year,4,Male M/D,None,1,Unknown,33,Rent,1,Unskilled,1,None,No,bad
+No Acc,12,Existing paid,New Car,2133,Unknown,>7 Years,4,Female M/D,None,4,Unknown,52,Free,1,Highly Qualified,1,Registered,No,good
+< 0 DM,18,Existing paid,Furniture,2039,< 100 DM ,1-4 Years,1,Female M/D,None,4,Real Estate,20,Rent,1,Skilled,1,None,No,bad
+< 0 DM,9,Dues Remain,New Car,2799,< 100 DM ,1-4 Years,2,Male M/D,None,2,Real Estate,36,Rent,2,Skilled,2,None,No,good
+< 0 DM,12,Existing paid,Furniture,1289,< 100 DM ,1-4 Years,4,Male M/D,Guarantor,1,Building society,21,Own,1,Unskilled,1,None,No,good
+< 0 DM,18,Existing paid,Appliance,1217,< 100 DM ,1-4 Years,4,Male S,None,3,Real Estate,47,Own,1,Unskilled,1,Registered,No,bad
+< 0 DM,12,Dues Remain,Furniture,2246,< 100 DM ,>7 Years,3,Male M/D,None,3,Building society,60,Own,2,Skilled,1,None,No,bad
+< 0 DM,12,Dues Remain,Television,385,< 100 DM ,4-7 Years,4,Female M/D,None,3,Real Estate,58,Own,4,Unskilled,1,Registered,No,good
+0 <= ... < 200 DM,24,Delayed,New Car,1965,Unknown,1-4 Years,4,Female M/D,None,4,Others,42,Rent,2,Skilled,1,Registered,No,good
+No Acc,21,Existing paid,Business,1572,>1000 DM,>7 Years,4,Female M/D,None,4,Real Estate,36,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,24,Existing paid,New Car,2718,< 100 DM ,1-4 Years,3,Female M/D,None,4,Building society,20,Rent,1,Unskilled,1,Registered,No,bad
+< 0 DM,24,Bank paid,Others,1358,Unknown,>7 Years,4,Male M/D,None,3,Others,40,Own,1,Highly Qualified,1,Registered,No,bad
+0 <= ... < 200 DM,6,Bank paid,New Car,931,100-500 DM,1 Year,1,Female M/D,None,1,Building society,32,Own,1,Unskilled,1,None,No,bad
+< 0 DM,24,Existing paid,New Car,1442,< 100 DM ,4-7 Years,4,Female M/D,None,4,Others,23,Rent,2,Skilled,1,None,No,bad
+0 <= ... < 200 DM,24,All Paid,Business,4241,< 100 DM ,1-4 Years,1,Male M/D,None,4,Real Estate,36,Own,3,Unskilled,1,Registered,No,bad
+No Acc,18,Dues Remain,New Car,2775,< 100 DM ,4-7 Years,2,Male M/D,None,2,Building society,31,Own,2,Skilled,1,None,No,bad
+No Acc,24,Delayed,Business,3863,< 100 DM ,1-4 Years,1,Male M/D,None,2,Unknown,32,Free,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,7,Existing paid,Television,2329,< 100 DM ,1 Year,1,Female M/D,Guarantor,1,Real Estate,45,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,9,Existing paid,Furniture,918,< 100 DM ,1-4 Years,4,Female M/D,None,1,Building society,30,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,24,Bank paid,Education,1837,< 100 DM ,4-7 Years,4,Female M/D,None,4,Unknown,34,Free,1,Unskilled,1,None,No,bad
+No Acc,36,Existing paid,Furniture,3349,< 100 DM ,1-4 Years,4,Female M/D,None,2,Others,28,Own,1,Highly Qualified,1,Registered,No,bad
+>= 200 DM,10,Existing paid,Furniture,1275,< 100 DM ,1 Year,4,Female M/D,None,2,Building society,23,Own,1,Skilled,1,None,No,good
+< 0 DM,24,Bank paid,Furniture,2828,500-1000 DM,1-4 Years,4,Male M/D,None,4,Real Estate,22,Own,1,Skilled,1,Registered,No,good
+No Acc,24,Dues Remain,Business,4526,< 100 DM ,1-4 Years,3,Male M/D,None,2,Real Estate,74,Own,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,36,Existing paid,Television,2671,100-500 DM,1-4 Years,4,Female M/D,Co-app,4,Unknown,50,Free,1,Skilled,1,None,No,bad
+No Acc,18,Existing paid,Television,2051,< 100 DM ,1 Year,4,Male M/D,None,1,Real Estate,33,Own,1,Skilled,1,None,No,good
+No Acc,15,Existing paid,Old Car,1300,Unknown,>7 Years,4,Male M/D,None,4,Unknown,45,Free,1,Skilled,2,None,No,good
+< 0 DM,12,Existing paid,Appliance,741,100-500 DM,Unemployed,4,Female M/D,None,3,Building society,22,Own,1,Skilled,1,None,No,bad
+>= 200 DM,10,Existing paid,New Car,1240,100-500 DM,>7 Years,1,Female M/D,None,4,Unknown,48,Free,1,Unskilled,2,None,No,bad
+< 0 DM,21,Existing paid,Television,3357,>1000 DM,1 Year,4,Female M/D,None,2,Others,29,Own,1,Skilled,1,None,No,good
+< 0 DM,24,Bank paid,Old Car,3632,< 100 DM ,1-4 Years,1,Female M/D,Guarantor,4,Others,22,Rent,1,Skilled,1,None,Yes,good
+No Acc,18,Delayed,Furniture,1808,< 100 DM ,4-7 Years,4,Female M/D,None,1,Real Estate,22,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,48,All Paid,Business,12204,Unknown,1-4 Years,2,Male M/D,None,2,Others,48,Own,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,60,Delayed,Television,9157,Unknown,1-4 Years,2,Male M/D,None,2,Unknown,27,Free,1,Highly Qualified,1,None,No,good
+< 0 DM,6,Dues Remain,New Car,3676,< 100 DM ,1-4 Years,1,Male M/D,None,3,Real Estate,37,Rent,3,Skilled,2,None,No,good
+0 <= ... < 200 DM,30,Existing paid,Furniture,3441,100-500 DM,1-4 Years,2,Female M/D,Co-app,4,Others,21,Rent,1,Skilled,1,None,No,bad
+No Acc,12,Existing paid,New Car,640,< 100 DM ,1-4 Years,4,Female S,None,2,Real Estate,49,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,21,Dues Remain,Business,3652,< 100 DM ,4-7 Years,2,Male M/D,None,3,Building society,27,Own,2,Skilled,1,None,No,good
+No Acc,18,Dues Remain,New Car,1530,< 100 DM ,1-4 Years,3,Male M/D,None,2,Building society,32,Own,2,Skilled,1,None,No,bad
+No Acc,48,Existing paid,Business,3914,Unknown,1-4 Years,4,Female S,None,2,Real Estate,38,Own,1,Skilled,1,None,No,bad
+< 0 DM,12,Existing paid,Furniture,1858,< 100 DM ,1 Year,4,Female M/D,None,1,Others,22,Rent,1,Skilled,1,None,No,good
+< 0 DM,18,Existing paid,Television,2600,< 100 DM ,1-4 Years,4,Male M/D,None,4,Unknown,65,Free,2,Skilled,1,None,No,bad
+No Acc,15,Existing paid,Television,1979,Unknown,>7 Years,4,Male M/D,None,2,Others,35,Own,1,Skilled,1,None,No,good
+>= 200 DM,6,Existing paid,Furniture,2116,< 100 DM ,1-4 Years,2,Male M/D,None,2,Real Estate,41,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,9,Bank paid,New Car,1437,100-500 DM,4-7 Years,2,Male M/D,None,3,Unknown,29,Own,1,Skilled,1,None,No,bad
+No Acc,42,Dues Remain,Furniture,4042,500-1000 DM,1-4 Years,4,Male M/D,None,4,Real Estate,36,Own,2,Skilled,1,Registered,No,good
+No Acc,9,Existing paid,Education,3832,Unknown,>7 Years,1,Male M/D,None,4,Real Estate,64,Own,1,Unskilled,1,None,No,good
+< 0 DM,24,Existing paid,Television,3660,< 100 DM ,1-4 Years,2,Female M/D,None,4,Others,28,Own,1,Skilled,1,None,No,good
+< 0 DM,18,Bank paid,Furniture,1553,< 100 DM ,1-4 Years,4,Male M/D,None,3,Others,44,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,15,Existing paid,Television,1444,Unknown,1 Year,4,Male M/D,None,1,Building society,23,Own,1,Skilled,1,None,No,good
+No Acc,9,Existing paid,Furniture,1980,< 100 DM ,1 Year,2,Female M/D,Co-app,2,Others,19,Rent,2,Skilled,1,None,No,bad
+0 <= ... < 200 DM,24,Existing paid,New Car,1355,< 100 DM ,1 Year,3,Female M/D,None,4,Others,25,Own,1,Unskilled,1,Registered,No,bad
+No Acc,12,Existing paid,Education,1393,< 100 DM ,>7 Years,4,Male M/D,None,4,Building society,47,Own,3,Skilled,2,Registered,No,good
+No Acc,24,Existing paid,Television,1376,500-1000 DM,4-7 Years,4,Female M/D,None,1,Others,28,Own,1,Skilled,1,None,No,good
+No Acc,60,Delayed,Television,15653,< 100 DM ,4-7 Years,2,Male M/D,None,4,Others,21,Own,2,Skilled,1,Registered,No,good
+No Acc,12,Existing paid,Television,1493,< 100 DM ,1 Year,4,Female M/D,None,3,Others,34,Own,1,Skilled,2,None,No,good
+< 0 DM,42,Delayed,Television,4370,< 100 DM ,4-7 Years,3,Male M/D,None,2,Building society,26,Own,2,Skilled,2,Registered,No,bad
+< 0 DM,18,Existing paid,Education,750,< 100 DM ,Unemployed,4,Female M/D,None,1,Real Estate,27,Own,1,Unemployed,1,None,No,bad
+0 <= ... < 200 DM,15,Existing paid,Repairs,1308,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,38,Own,2,Unskilled,1,None,No,good
+No Acc,15,Existing paid,Education,4623,100-500 DM,1-4 Years,3,Male M/D,None,2,Building society,40,Own,1,Highly Qualified,1,Registered,No,bad
+No Acc,24,Dues Remain,Television,1851,< 100 DM ,4-7 Years,4,Male S,Guarantor,2,Others,33,Own,2,Skilled,1,Registered,No,good
+< 0 DM,18,Dues Remain,Television,1880,< 100 DM ,4-7 Years,4,Male S,None,1,Building society,32,Own,2,Highly Qualified,1,Registered,No,good
+No Acc,36,Delayed,Business,7980,Unknown,1 Year,4,Male M/D,None,4,Others,27,Rent,2,Skilled,1,Registered,No,bad
+< 0 DM,30,All Paid,Furniture,4583,< 100 DM ,1-4 Years,2,Female S,Guarantor,2,Real Estate,32,Own,2,Skilled,1,None,No,good
+No Acc,12,Existing paid,New Car,1386,500-1000 DM,1-4 Years,2,Female M/D,None,2,Building society,26,Own,1,Skilled,1,None,No,bad
+>= 200 DM,24,Existing paid,New Car,947,< 100 DM ,4-7 Years,4,Male M/D,None,3,Unknown,38,Free,1,Skilled,2,None,No,bad
+< 0 DM,12,Existing paid,Education,684,< 100 DM ,1-4 Years,4,Male M/D,None,4,Others,40,Rent,1,Unskilled,2,None,No,bad
+< 0 DM,48,Existing paid,Education,7476,< 100 DM ,4-7 Years,4,Male M/D,None,1,Unknown,50,Free,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,12,Existing paid,Furniture,1922,< 100 DM ,1-4 Years,4,Male M/D,None,2,Building society,37,Own,1,Unskilled,1,None,No,bad
+< 0 DM,24,Existing paid,New Car,2303,< 100 DM ,>7 Years,4,Male M/D,Co-app,1,Real Estate,45,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,36,Delayed,New Car,8086,100-500 DM,>7 Years,2,Male M/D,None,4,Others,42,Own,4,Highly Qualified,1,Registered,No,bad
+No Acc,24,Dues Remain,Old Car,2346,< 100 DM ,4-7 Years,4,Male M/D,None,3,Others,35,Own,2,Skilled,1,Registered,No,good
+< 0 DM,14,Existing paid,New Car,3973,< 100 DM ,Unemployed,1,Male M/D,None,4,Unknown,22,Free,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,New Car,888,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,41,Own,1,Unskilled,2,None,No,bad
+No Acc,48,Existing paid,Television,10222,Unknown,4-7 Years,4,Male M/D,None,3,Others,37,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,30,All Paid,Business,4221,< 100 DM ,1-4 Years,2,Female M/D,None,1,Others,28,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,18,Dues Remain,Furniture,6361,< 100 DM ,>7 Years,2,Male M/D,None,1,Unknown,41,Own,1,Skilled,1,Registered,No,good
+>= 200 DM,12,Existing paid,Television,1297,< 100 DM ,1-4 Years,3,Male S,None,4,Real Estate,23,Rent,1,Skilled,1,None,No,good
+< 0 DM,12,Existing paid,New Car,900,Unknown,1-4 Years,4,Male S,None,2,Others,23,Own,1,Skilled,1,None,No,bad
+No Acc,21,Existing paid,Furniture,2241,< 100 DM ,>7 Years,4,Male M/D,None,2,Real Estate,50,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,6,Delayed,Furniture,1050,< 100 DM ,Unemployed,4,Male M/D,None,1,Building society,35,Own,2,Highly Qualified,1,Registered,No,good
+>= 200 DM,6,Dues Remain,Education,1047,< 100 DM ,1-4 Years,2,Female M/D,None,4,Building society,50,Own,1,Unskilled,1,None,No,good
+No Acc,24,Dues Remain,Others,6314,< 100 DM ,Unemployed,4,Male M/D,Co-app,2,Unknown,27,Own,2,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,30,Bank paid,Furniture,3496,>1000 DM,1-4 Years,4,Male M/D,None,2,Others,34,Own,1,Skilled,2,Registered,No,good
+No Acc,48,Bank paid,Business,3609,< 100 DM ,1-4 Years,1,Female M/D,None,1,Real Estate,27,Own,1,Skilled,1,None,No,good
+< 0 DM,12,Dues Remain,New Car,4843,< 100 DM ,>7 Years,3,Male M/D,Co-app,4,Building society,43,Rent,2,Skilled,1,Registered,No,bad
+>= 200 DM,30,Dues Remain,Television,3017,< 100 DM ,>7 Years,4,Male M/D,None,4,Building society,47,Own,1,Skilled,1,None,No,good
+No Acc,24,Dues Remain,Business,4139,100-500 DM,1-4 Years,3,Male M/D,None,3,Building society,27,Own,2,Unskilled,1,Registered,No,good
+No Acc,36,Existing paid,Business,5742,100-500 DM,4-7 Years,2,Male M/D,None,2,Others,31,Own,2,Skilled,1,Registered,No,good
+No Acc,60,Existing paid,New Car,10366,< 100 DM ,>7 Years,2,Male M/D,None,4,Building society,42,Own,1,Highly Qualified,1,Registered,No,good
+No Acc,6,Dues Remain,New Car,2080,500-1000 DM,1-4 Years,1,Male S,None,2,Others,24,Own,1,Skilled,1,None,No,good
+No Acc,21,Delayed,Business,2580,500-1000 DM,1 Year,4,Male M/D,None,2,Real Estate,41,Own,1,Unskilled,2,None,No,bad
+No Acc,30,Dues Remain,Television,4530,< 100 DM ,4-7 Years,4,Female M/D,None,4,Others,26,Rent,1,Highly Qualified,1,Registered,No,good
+No Acc,24,Dues Remain,Furniture,5150,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,33,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,72,Existing paid,Television,5595,100-500 DM,1-4 Years,2,Male S,None,2,Others,24,Own,1,Skilled,1,None,No,bad
+< 0 DM,24,Existing paid,Television,2384,< 100 DM ,>7 Years,4,Male M/D,None,4,Real Estate,64,Rent,1,Unskilled,1,None,No,good
+No Acc,18,Existing paid,Television,1453,< 100 DM ,1 Year,3,Female M/D,None,1,Real Estate,26,Own,1,Skilled,1,None,No,good
+No Acc,6,Existing paid,Education,1538,< 100 DM ,1 Year,1,Female M/D,None,2,Unknown,56,Own,1,Skilled,1,None,No,good
+No Acc,12,Existing paid,Television,2279,Unknown,1-4 Years,4,Male M/D,None,4,Unknown,37,Free,1,Skilled,1,Registered,No,good
+No Acc,15,Delayed,Television,1478,< 100 DM ,1-4 Years,4,Male S,None,3,Real Estate,33,Own,2,Skilled,1,None,No,good
+No Acc,24,Dues Remain,Television,5103,< 100 DM ,1 Year,3,Male S,None,3,Unknown,47,Free,3,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,36,Delayed,Business,9857,100-500 DM,4-7 Years,1,Male M/D,None,3,Building society,31,Own,2,Unskilled,2,Registered,No,good
+No Acc,60,Existing paid,New Car,6527,Unknown,1-4 Years,4,Male M/D,None,4,Unknown,34,Free,1,Skilled,2,Registered,No,good
+>= 200 DM,10,Dues Remain,Television,1347,Unknown,4-7 Years,4,Male M/D,None,2,Building society,27,Own,2,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,36,Delayed,New Car,2862,100-500 DM,>7 Years,4,Male M/D,None,3,Unknown,30,Free,1,Skilled,1,None,No,good
+No Acc,9,Existing paid,Television,2753,100-500 DM,>7 Years,3,Male M/D,Co-app,4,Others,35,Own,1,Skilled,1,Registered,No,good
+< 0 DM,12,Existing paid,New Car,3651,>1000 DM,1-4 Years,1,Male M/D,None,3,Building society,31,Own,1,Skilled,2,None,No,good
+< 0 DM,15,Dues Remain,Furniture,975,< 100 DM ,1-4 Years,2,Female S,None,3,Building society,25,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,15,Existing paid,Repairs,2631,100-500 DM,1-4 Years,3,Female M/D,None,2,Real Estate,25,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,24,Existing paid,Television,2896,100-500 DM,1 Year,2,Male M/D,None,1,Others,29,Own,1,Skilled,1,None,No,good
+< 0 DM,6,Dues Remain,New Car,4716,Unknown,1 Year,1,Male M/D,None,3,Real Estate,44,Own,2,Unskilled,2,None,No,good
+No Acc,24,Existing paid,Television,2284,< 100 DM ,4-7 Years,4,Male M/D,None,2,Others,28,Own,1,Skilled,1,Registered,No,good
+No Acc,6,Existing paid,Old Car,1236,500-1000 DM,1-4 Years,2,Male M/D,None,4,Building society,50,Rent,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,Television,1103,< 100 DM ,4-7 Years,4,Male M/D,Guarantor,3,Real Estate,29,Own,2,Skilled,1,None,Yes,good
+No Acc,12,Dues Remain,New Car,926,< 100 DM ,Unemployed,1,Female M/D,None,2,Building society,38,Own,1,Unemployed,1,None,No,good
+No Acc,18,Dues Remain,Television,1800,< 100 DM ,1-4 Years,4,Male M/D,None,2,Others,24,Own,2,Skilled,1,None,No,good
+>= 200 DM,15,Existing paid,Education,1905,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,40,Rent,1,Highly Qualified,1,Registered,No,good
+No Acc,12,Existing paid,Furniture,1123,500-1000 DM,1-4 Years,4,Female M/D,None,4,Others,29,Rent,1,Unskilled,1,None,No,bad
+< 0 DM,48,Dues Remain,Old Car,6331,< 100 DM ,>7 Years,4,Male M/D,None,4,Unknown,46,Free,2,Skilled,1,Registered,No,bad
+>= 200 DM,24,Existing paid,Television,1377,100-500 DM,>7 Years,4,Female M/D,None,2,Unknown,47,Free,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,30,Delayed,Business,2503,100-500 DM,>7 Years,4,Male M/D,None,2,Building society,41,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,27,Existing paid,Business,2528,< 100 DM ,1 Year,4,Female M/D,None,1,Building society,32,Own,1,Skilled,2,Registered,No,good
+No Acc,15,Existing paid,New Car,5324,500-1000 DM,>7 Years,1,Female M/D,None,4,Unknown,35,Free,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,48,Existing paid,New Car,6560,100-500 DM,4-7 Years,3,Male M/D,None,2,Building society,24,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,12,All Paid,Furniture,2969,< 100 DM ,1 Year,4,Female M/D,None,3,Building society,25,Rent,2,Skilled,1,None,No,bad
+0 <= ... < 200 DM,9,Existing paid,Television,1206,< 100 DM ,>7 Years,4,Female M/D,None,4,Real Estate,25,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,9,Existing paid,Television,2118,< 100 DM ,1-4 Years,2,Male M/D,None,2,Real Estate,37,Own,1,Unskilled,2,None,No,good
+No Acc,18,Dues Remain,Television,629,500-1000 DM,>7 Years,4,Male M/D,None,3,Building society,32,Own,2,Highly Qualified,1,Registered,No,good
+< 0 DM,6,Bank paid,Education,1198,< 100 DM ,>7 Years,4,Female M/D,None,4,Unknown,35,Free,1,Skilled,1,None,No,bad
+No Acc,21,Existing paid,Old Car,2476,Unknown,>7 Years,4,Male M/D,None,4,Real Estate,46,Own,1,Highly Qualified,1,Registered,No,good
+< 0 DM,9,Dues Remain,Television,1138,< 100 DM ,1-4 Years,4,Male M/D,None,4,Real Estate,25,Own,2,Unskilled,1,None,No,good
+0 <= ... < 200 DM,60,Existing paid,New Car,14027,< 100 DM ,4-7 Years,4,Male M/D,None,2,Unknown,27,Own,1,Highly Qualified,1,Registered,No,bad
+No Acc,30,Dues Remain,Old Car,7596,Unknown,>7 Years,1,Male M/D,None,4,Others,63,Own,2,Skilled,1,None,No,good
+No Acc,30,Dues Remain,Television,3077,Unknown,>7 Years,3,Male M/D,None,2,Others,40,Own,2,Skilled,2,Registered,No,good
+No Acc,18,Existing paid,Television,1505,< 100 DM ,1-4 Years,4,Male M/D,None,2,Unknown,32,Free,1,Highly Qualified,1,Registered,No,good
+>= 200 DM,24,Dues Remain,Television,3148,Unknown,1-4 Years,3,Male M/D,None,2,Others,31,Own,2,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,20,All Paid,Old Car,6148,100-500 DM,>7 Years,3,Male S,None,4,Others,31,Own,2,Skilled,1,Registered,No,good
+>= 200 DM,9,All Paid,Television,1337,< 100 DM ,1 Year,4,Male M/D,None,2,Others,34,Own,2,Highly Qualified,1,Registered,No,bad
+0 <= ... < 200 DM,6,Bank paid,Education,433,>1000 DM,1 Year,4,Female M/D,None,2,Building society,24,Rent,1,Skilled,2,None,No,bad
+< 0 DM,12,Existing paid,New Car,1228,< 100 DM ,1-4 Years,4,Female M/D,None,2,Real Estate,24,Own,1,Unskilled,1,None,No,bad
+0 <= ... < 200 DM,9,Existing paid,Television,790,500-1000 DM,1-4 Years,4,Female M/D,None,3,Real Estate,66,Own,1,Unskilled,1,None,No,good
+No Acc,27,Existing paid,New Car,2570,< 100 DM ,1-4 Years,3,Female M/D,None,3,Real Estate,21,Rent,1,Skilled,1,None,No,bad
+No Acc,6,Dues Remain,New Car,250,>1000 DM,1-4 Years,2,Female M/D,None,2,Real Estate,41,Own,2,Unskilled,1,None,No,good
+No Acc,15,Dues Remain,Television,1316,500-1000 DM,1-4 Years,2,Male S,None,2,Building society,47,Own,2,Unskilled,1,None,No,good
+< 0 DM,18,Existing paid,Television,1882,< 100 DM ,1-4 Years,4,Female M/D,None,4,Others,25,Rent,2,Skilled,1,None,No,bad
+0 <= ... < 200 DM,48,Bank paid,Business,6416,< 100 DM ,>7 Years,4,Female M/D,None,3,Unknown,59,Rent,1,Skilled,1,None,No,bad
+>= 200 DM,24,Dues Remain,Business,1275,>1000 DM,1-4 Years,2,Female S,None,4,Real Estate,36,Own,2,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,24,Delayed,Television,6403,< 100 DM ,1 Year,1,Male M/D,None,2,Others,33,Own,1,Skilled,1,None,No,good
+< 0 DM,24,Existing paid,Television,1987,< 100 DM ,1-4 Years,2,Male M/D,None,4,Real Estate,21,Rent,1,Unskilled,2,None,No,bad
+0 <= ... < 200 DM,8,Existing paid,Television,760,< 100 DM ,4-7 Years,4,Female M/D,Guarantor,2,Real Estate,44,Own,1,Unskilled,1,None,No,good
+No Acc,24,Existing paid,Old Car,2603,>1000 DM,1-4 Years,2,Female M/D,None,4,Others,28,Rent,1,Skilled,1,Registered,No,good
+No Acc,4,Dues Remain,New Car,3380,< 100 DM ,4-7 Years,1,Female M/D,None,1,Real Estate,37,Own,1,Skilled,2,None,No,good
+0 <= ... < 200 DM,36,Bank paid,Appliance,3990,Unknown,1 Year,3,Female M/D,None,2,Unknown,29,Own,1,Unemployed,1,None,No,good
+0 <= ... < 200 DM,24,Existing paid,Old Car,11560,< 100 DM ,1-4 Years,1,Female M/D,None,4,Others,23,Rent,2,Highly Qualified,1,None,No,bad
+< 0 DM,18,Existing paid,New Car,4380,100-500 DM,1-4 Years,3,Male M/D,None,4,Others,35,Own,1,Unskilled,2,Registered,No,good
+No Acc,6,Dues Remain,New Car,6761,< 100 DM ,4-7 Years,1,Male M/D,None,3,Unknown,45,Own,2,Highly Qualified,2,Registered,No,good
+0 <= ... < 200 DM,30,All Paid,Business,4280,100-500 DM,1-4 Years,4,Female M/D,None,4,Others,26,Rent,2,Unskilled,1,None,No,bad
+< 0 DM,24,Bank paid,New Car,2325,100-500 DM,4-7 Years,2,Male M/D,None,3,Others,32,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,10,Bank paid,Television,1048,< 100 DM ,1-4 Years,4,Male M/D,None,4,Real Estate,23,Own,1,Unskilled,1,None,No,good
+No Acc,21,Existing paid,Television,3160,Unknown,>7 Years,4,Male M/D,None,3,Building society,41,Own,1,Skilled,1,Registered,No,good
+< 0 DM,24,Bank paid,Furniture,2483,500-1000 DM,1-4 Years,4,Male M/D,None,4,Real Estate,22,Own,1,Skilled,1,Registered,No,good
+< 0 DM,39,Dues Remain,Furniture,14179,Unknown,4-7 Years,4,Male M/D,None,4,Building society,30,Own,2,Highly Qualified,1,Registered,No,good
+< 0 DM,13,Dues Remain,Business,1797,< 100 DM ,1 Year,3,Male M/D,None,1,Building society,28,Own,2,Unskilled,1,None,No,good
+< 0 DM,15,Existing paid,New Car,2511,< 100 DM ,Unemployed,1,Female M/D,None,4,Others,23,Rent,1,Skilled,1,None,No,good
+< 0 DM,12,Existing paid,New Car,1274,< 100 DM ,1 Year,3,Female M/D,None,1,Real Estate,37,Own,1,Unskilled,1,None,No,bad
+No Acc,21,Existing paid,Old Car,5248,Unknown,1-4 Years,1,Male M/D,None,3,Others,26,Own,1,Skilled,1,None,No,good
+No Acc,15,Existing paid,Old Car,3029,< 100 DM ,4-7 Years,2,Male M/D,None,2,Others,33,Own,1,Skilled,1,None,No,good
+< 0 DM,6,Existing paid,Furniture,428,< 100 DM ,>7 Years,2,Female M/D,None,1,Building society,49,Own,1,Skilled,1,Registered,No,good
+< 0 DM,18,Existing paid,New Car,976,< 100 DM ,1 Year,1,Female M/D,None,2,Others,23,Own,1,Unskilled,1,None,No,bad
+0 <= ... < 200 DM,12,Existing paid,Business,841,100-500 DM,4-7 Years,2,Female M/D,None,4,Real Estate,23,Rent,1,Unskilled,1,None,No,good
+No Acc,30,Dues Remain,Television,5771,< 100 DM ,4-7 Years,4,Female M/D,None,2,Others,25,Own,2,Skilled,1,None,No,good
+No Acc,12,Delayed,Repairs,1555,>1000 DM,>7 Years,4,Male M/D,None,4,Unknown,55,Free,2,Skilled,2,None,No,bad
+< 0 DM,24,Existing paid,New Car,1285,Unknown,4-7 Years,4,Female M/D,None,4,Unknown,32,Rent,1,Skilled,1,None,No,bad
+>= 200 DM,6,Dues Remain,New Car,1299,< 100 DM ,1-4 Years,1,Male M/D,None,1,Real Estate,74,Own,3,Unemployed,2,None,Yes,good
+>= 200 DM,15,Dues Remain,Television,1271,Unknown,1-4 Years,3,Male M/D,None,4,Unknown,39,Free,2,Skilled,1,Registered,No,bad
+No Acc,24,Existing paid,New Car,1393,< 100 DM ,1-4 Years,2,Male M/D,Guarantor,2,Real Estate,31,Own,1,Skilled,1,Registered,No,good
+< 0 DM,12,Dues Remain,New Car,691,< 100 DM ,>7 Years,4,Male M/D,None,3,Building society,35,Own,2,Skilled,1,None,No,bad
+No Acc,15,Dues Remain,New Car,5045,Unknown,>7 Years,1,Female M/D,None,4,Others,59,Own,1,Skilled,1,Registered,No,good
+< 0 DM,18,Dues Remain,Furniture,2124,< 100 DM ,1-4 Years,4,Female M/D,None,4,Real Estate,24,Rent,2,Skilled,1,None,No,bad
+< 0 DM,12,Existing paid,Television,2214,< 100 DM ,1-4 Years,4,Male M/D,None,3,Building society,24,Own,1,Unskilled,1,None,No,good
+No Acc,21,Dues Remain,New Car,12680,Unknown,>7 Years,4,Male M/D,None,4,Unknown,30,Free,1,Highly Qualified,1,Registered,No,bad
+No Acc,24,Dues Remain,New Car,2463,100-500 DM,4-7 Years,4,Male S,None,3,Building society,27,Own,2,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,12,Existing paid,Television,1155,< 100 DM ,>7 Years,3,Male S,Guarantor,3,Real Estate,40,Own,2,Unskilled,1,None,No,good
+< 0 DM,30,Existing paid,Furniture,3108,< 100 DM ,1 Year,2,Female S,None,4,Building society,31,Own,1,Unskilled,1,None,No,bad
+No Acc,10,Existing paid,Old Car,2901,Unknown,1 Year,1,Female M/D,None,4,Real Estate,31,Rent,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Dues Remain,Furniture,3617,< 100 DM ,>7 Years,1,Male M/D,None,4,Others,28,Rent,3,Skilled,1,Registered,No,good
+No Acc,12,Dues Remain,Television,1655,< 100 DM ,>7 Years,2,Male M/D,None,4,Real Estate,63,Own,2,Unskilled,1,Registered,No,good
+< 0 DM,24,Existing paid,Old Car,2812,Unknown,>7 Years,2,Female M/D,None,4,Real Estate,26,Rent,1,Skilled,1,None,No,good
+< 0 DM,36,Dues Remain,Education,8065,< 100 DM ,1-4 Years,3,Female M/D,None,2,Unknown,25,Own,2,Highly Qualified,1,Registered,No,bad
+No Acc,21,Dues Remain,Old Car,3275,< 100 DM ,>7 Years,1,Male M/D,None,4,Others,36,Own,1,Highly Qualified,1,Registered,No,good
+No Acc,24,Dues Remain,Television,2223,100-500 DM,>7 Years,4,Male M/D,None,4,Building society,52,Own,2,Skilled,1,None,No,good
+>= 200 DM,12,Dues Remain,New Car,1480,500-1000 DM,Unemployed,2,Male M/D,None,4,Unknown,66,Free,3,Unemployed,1,None,No,good
+< 0 DM,24,Existing paid,New Car,1371,Unknown,1-4 Years,4,Female M/D,None,4,Real Estate,25,Rent,1,Skilled,1,None,No,bad
+No Acc,36,Dues Remain,New Car,3535,< 100 DM ,4-7 Years,4,Male M/D,None,4,Others,37,Own,2,Skilled,1,Registered,No,good
+< 0 DM,18,Existing paid,Television,3509,< 100 DM ,4-7 Years,4,Female M/D,Guarantor,1,Real Estate,25,Own,1,Skilled,1,None,No,good
+No Acc,36,Dues Remain,Old Car,5711,>1000 DM,>7 Years,4,Male M/D,None,2,Others,38,Own,2,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,18,Existing paid,Repairs,3872,< 100 DM ,Unemployed,2,Female M/D,None,4,Others,67,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,39,Dues Remain,Television,4933,< 100 DM ,4-7 Years,2,Male M/D,Guarantor,2,Real Estate,25,Own,2,Skilled,1,None,No,bad
+No Acc,24,Dues Remain,New Car,1940,>1000 DM,>7 Years,4,Male M/D,None,4,Real Estate,60,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,12,All Paid,Retraining,1410,< 100 DM ,1-4 Years,2,Male M/D,None,2,Real Estate,31,Own,1,Unskilled,1,Registered,No,good
+0 <= ... < 200 DM,12,Existing paid,New Car,836,100-500 DM,1 Year,4,Female M/D,None,2,Building society,23,Own,1,Unskilled,1,None,No,bad
+0 <= ... < 200 DM,20,Existing paid,Old Car,6468,Unknown,Unemployed,1,Female S,None,4,Real Estate,60,Own,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,18,Existing paid,Business,1941,>1000 DM,1-4 Years,4,Male M/D,None,2,Building society,35,Own,1,Unskilled,1,Registered,No,good
+No Acc,22,Existing paid,Television,2675,500-1000 DM,>7 Years,3,Male M/D,None,4,Others,40,Own,1,Skilled,1,None,No,good
+No Acc,48,Dues Remain,Old Car,2751,Unknown,>7 Years,4,Male M/D,None,3,Others,38,Own,2,Skilled,2,Registered,No,good
+0 <= ... < 200 DM,48,Delayed,Education,6224,< 100 DM ,>7 Years,4,Male M/D,None,4,Unknown,50,Free,1,Skilled,1,None,No,bad
+< 0 DM,40,Dues Remain,Education,5998,< 100 DM ,1-4 Years,4,Male M/D,None,3,Unknown,27,Own,1,Skilled,1,Registered,No,bad
+0 <= ... < 200 DM,21,Existing paid,Business,1188,< 100 DM ,>7 Years,2,Female M/D,None,4,Building society,39,Own,1,Skilled,2,None,No,bad
+No Acc,24,Existing paid,Old Car,6313,Unknown,>7 Years,3,Male M/D,None,4,Others,41,Own,1,Highly Qualified,2,Registered,No,good
+No Acc,6,Dues Remain,Furniture,1221,Unknown,1-4 Years,1,Male S,None,2,Building society,27,Own,2,Skilled,1,None,No,good
+>= 200 DM,24,Existing paid,Furniture,2892,< 100 DM ,>7 Years,3,Female S,None,4,Unknown,51,Free,1,Skilled,1,None,No,good
+No Acc,24,Existing paid,Furniture,3062,500-1000 DM,>7 Years,4,Male M/D,None,3,Unknown,32,Rent,1,Skilled,1,Registered,No,good
+No Acc,9,Existing paid,Furniture,2301,100-500 DM,1 Year,2,Female M/D,None,4,Building society,22,Rent,1,Skilled,1,None,No,good
+< 0 DM,18,Existing paid,Old Car,7511,Unknown,>7 Years,1,Male M/D,None,4,Building society,51,Free,1,Skilled,2,Registered,No,bad
+No Acc,12,Dues Remain,Furniture,1258,< 100 DM ,1 Year,2,Female M/D,None,4,Building society,22,Rent,2,Unskilled,1,None,No,good
+No Acc,24,Delayed,New Car,717,Unknown,>7 Years,4,Male S,None,4,Others,54,Own,2,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,9,Existing paid,New Car,1549,Unknown,1 Year,4,Male M/D,None,2,Real Estate,35,Own,1,Unemployed,1,None,No,good
+No Acc,24,Dues Remain,Education,1597,< 100 DM ,>7 Years,4,Male M/D,None,4,Unknown,54,Free,2,Skilled,2,None,No,good
+0 <= ... < 200 DM,18,Dues Remain,Television,1795,< 100 DM ,>7 Years,3,Female M/D,Guarantor,4,Real Estate,48,Rent,2,Unskilled,1,Registered,No,good
+< 0 DM,20,Dues Remain,Furniture,4272,< 100 DM ,>7 Years,1,Female M/D,None,4,Building society,24,Own,2,Skilled,1,None,No,good
+No Acc,12,Dues Remain,Television,976,Unknown,>7 Years,4,Male M/D,None,4,Others,35,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,12,Existing paid,New Car,7472,Unknown,Unemployed,1,Female M/D,None,2,Real Estate,24,Rent,1,Unemployed,1,None,No,good
+< 0 DM,36,Existing paid,New Car,9271,< 100 DM ,4-7 Years,2,Male M/D,None,1,Others,24,Own,1,Skilled,1,Registered,No,bad
+0 <= ... < 200 DM,6,Existing paid,Television,590,< 100 DM ,1 Year,3,Male S,None,3,Real Estate,26,Own,1,Unskilled,1,None,Yes,good
+No Acc,12,Dues Remain,Television,930,Unknown,>7 Years,4,Male M/D,None,4,Real Estate,65,Own,4,Skilled,1,None,No,good
+0 <= ... < 200 DM,42,Bank paid,Old Car,9283,< 100 DM ,Unemployed,1,Male M/D,None,2,Unknown,55,Free,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,15,All Paid,New Car,1778,< 100 DM ,1 Year,2,Female M/D,None,1,Real Estate,26,Rent,2,Unemployed,1,None,No,bad
+0 <= ... < 200 DM,8,Existing paid,Business,907,< 100 DM ,1 Year,3,Male S,None,2,Real Estate,26,Own,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,6,Existing paid,Television,484,< 100 DM ,4-7 Years,3,Male S,Guarantor,3,Real Estate,28,Own,1,Unskilled,1,None,No,good
+< 0 DM,36,Dues Remain,Old Car,9629,< 100 DM ,4-7 Years,4,Male M/D,None,4,Others,24,Own,2,Skilled,1,Registered,No,bad
+< 0 DM,48,Existing paid,Appliance,3051,< 100 DM ,1-4 Years,3,Male M/D,None,4,Others,54,Own,1,Skilled,1,None,No,bad
+< 0 DM,48,Existing paid,New Car,3931,< 100 DM ,4-7 Years,4,Male M/D,None,4,Unknown,46,Free,1,Skilled,2,None,No,bad
+0 <= ... < 200 DM,36,Delayed,New Car,7432,< 100 DM ,1-4 Years,2,Female M/D,None,2,Building society,54,Rent,1,Skilled,1,None,No,good
+No Acc,6,Existing paid,Appliance,1338,500-1000 DM,1-4 Years,1,Female S,None,4,Real Estate,62,Own,1,Skilled,1,None,No,good
+No Acc,6,Dues Remain,Television,1554,< 100 DM ,4-7 Years,1,Female M/D,None,2,Others,24,Rent,2,Skilled,1,Registered,No,good
+< 0 DM,36,Existing paid,Others,15857,< 100 DM ,Unemployed,2,Female S,Co-app,3,Others,43,Own,1,Highly Qualified,1,None,No,good
+< 0 DM,18,Existing paid,Television,1345,< 100 DM ,1-4 Years,4,Male S,None,3,Real Estate,26,Own,1,Skilled,1,None,No,bad
+No Acc,12,Existing paid,New Car,1101,< 100 DM ,1-4 Years,3,Male S,None,2,Real Estate,27,Own,2,Skilled,1,Registered,No,good
+>= 200 DM,12,Existing paid,Television,3016,< 100 DM ,1-4 Years,3,Male S,None,1,Others,24,Own,1,Skilled,1,None,No,good
+< 0 DM,36,Existing paid,Furniture,2712,< 100 DM ,>7 Years,2,Male M/D,None,2,Building society,41,Own,1,Skilled,2,None,No,bad
+< 0 DM,8,Dues Remain,New Car,731,< 100 DM ,>7 Years,4,Male M/D,None,4,Real Estate,47,Own,2,Unskilled,1,None,No,good
+No Acc,18,Dues Remain,Furniture,3780,< 100 DM ,1 Year,3,Female S,None,2,Others,35,Own,2,Highly Qualified,1,Registered,No,good
+< 0 DM,21,Dues Remain,New Car,1602,< 100 DM ,>7 Years,4,Male S,None,3,Others,30,Own,2,Skilled,1,Registered,No,good
+< 0 DM,18,Dues Remain,New Car,3966,< 100 DM ,>7 Years,1,Female M/D,None,4,Real Estate,33,Rent,3,Skilled,1,Registered,No,bad
+No Acc,18,All Paid,Business,4165,< 100 DM ,1-4 Years,2,Male M/D,None,2,Others,36,Own,2,Skilled,2,None,No,bad
+< 0 DM,36,Existing paid,Old Car,8335,Unknown,>7 Years,3,Male M/D,None,4,Unknown,47,Free,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,48,Delayed,Business,6681,Unknown,1-4 Years,4,Male M/D,None,4,Unknown,38,Free,1,Skilled,2,Registered,No,good
+No Acc,24,Delayed,Business,2375,500-1000 DM,1-4 Years,4,Male M/D,None,2,Others,44,Own,2,Skilled,2,Registered,No,good
+< 0 DM,18,Existing paid,New Car,1216,< 100 DM ,1 Year,4,Female M/D,None,3,Others,23,Rent,1,Skilled,1,Registered,No,bad
+< 0 DM,45,All Paid,Business,11816,< 100 DM ,>7 Years,2,Male M/D,None,4,Others,29,Rent,2,Skilled,1,None,No,bad
+0 <= ... < 200 DM,24,Existing paid,Television,5084,Unknown,>7 Years,2,Female M/D,None,4,Others,42,Own,1,Skilled,1,Registered,No,good
+>= 200 DM,15,Existing paid,Television,2327,< 100 DM ,1 Year,2,Female M/D,None,3,Real Estate,25,Own,1,Unskilled,1,None,No,bad
+< 0 DM,12,All Paid,New Car,1082,< 100 DM ,1-4 Years,4,Male M/D,None,4,Others,48,Own,2,Skilled,1,None,No,bad
+No Acc,12,Existing paid,Television,886,Unknown,1-4 Years,4,Female M/D,None,2,Others,21,Own,1,Skilled,1,None,No,good
+No Acc,4,Existing paid,Furniture,601,< 100 DM ,1 Year,1,Female M/D,None,3,Real Estate,23,Rent,1,Unskilled,2,None,No,good
+< 0 DM,24,Dues Remain,Old Car,2957,< 100 DM ,>7 Years,4,Male M/D,None,4,Building society,63,Own,2,Skilled,1,Registered,No,good
+No Acc,24,Dues Remain,Television,2611,< 100 DM ,>7 Years,4,Male S,Co-app,3,Real Estate,46,Own,2,Skilled,1,None,No,good
+< 0 DM,36,Existing paid,Furniture,5179,< 100 DM ,4-7 Years,4,Male M/D,None,2,Building society,29,Own,1,Skilled,1,None,No,bad
+No Acc,21,Delayed,Old Car,2993,< 100 DM ,1-4 Years,3,Male M/D,None,2,Real Estate,28,Own,2,Unskilled,1,None,No,good
+No Acc,18,Existing paid,Repairs,1943,< 100 DM ,1 Year,4,Female M/D,None,4,Real Estate,23,Own,1,Skilled,1,None,No,bad
+No Acc,24,Bank paid,Business,1559,< 100 DM ,4-7 Years,4,Male M/D,None,4,Others,50,Own,1,Skilled,1,Registered,No,good
+No Acc,18,Existing paid,Furniture,3422,< 100 DM ,>7 Years,4,Male M/D,None,4,Building society,47,Own,3,Skilled,2,Registered,No,good
+0 <= ... < 200 DM,21,Existing paid,Furniture,3976,Unknown,4-7 Years,2,Male M/D,None,3,Others,35,Own,1,Skilled,1,Registered,No,good
+No Acc,18,Existing paid,New Car,6761,Unknown,1-4 Years,2,Male M/D,None,4,Others,68,Rent,2,Skilled,1,None,No,bad
+No Acc,24,Existing paid,New Car,1249,< 100 DM ,1 Year,4,Male S,None,2,Real Estate,28,Own,1,Skilled,1,None,No,good
+< 0 DM,9,Existing paid,Television,1364,< 100 DM ,4-7 Years,3,Male M/D,None,4,Real Estate,59,Own,1,Skilled,1,None,No,good
+< 0 DM,12,Existing paid,Television,709,< 100 DM ,>7 Years,4,Male M/D,None,4,Real Estate,57,Own,1,Unskilled,1,None,No,bad
+< 0 DM,20,Dues Remain,New Car,2235,< 100 DM ,1-4 Years,4,Male S,Guarantor,2,Building society,33,Rent,2,Skilled,1,None,Yes,bad
+No Acc,24,Dues Remain,Old Car,4042,Unknown,4-7 Years,3,Male M/D,None,4,Building society,43,Own,2,Skilled,1,Registered,No,good
+No Acc,15,Dues Remain,Television,1471,< 100 DM ,1-4 Years,4,Male M/D,None,4,Unknown,35,Free,2,Skilled,1,Registered,No,good
+< 0 DM,18,Bank paid,New Car,1442,< 100 DM ,4-7 Years,4,Male M/D,None,4,Unknown,32,Free,2,Unskilled,2,None,No,bad
+No Acc,36,Delayed,New Car,10875,< 100 DM ,>7 Years,2,Male M/D,None,2,Others,45,Own,2,Skilled,2,Registered,No,good
+No Acc,24,Existing paid,New Car,1474,100-500 DM,1 Year,4,Male S,None,3,Real Estate,33,Own,1,Skilled,1,Registered,No,good
+No Acc,10,Existing paid,Retraining,894,Unknown,4-7 Years,4,Female M/D,None,3,Building society,40,Own,1,Skilled,1,Registered,No,good
+No Acc,15,Dues Remain,Furniture,3343,< 100 DM ,1-4 Years,4,Male M/D,None,2,Unknown,28,Free,1,Skilled,1,Registered,No,good
+< 0 DM,15,Existing paid,New Car,3959,< 100 DM ,1-4 Years,3,Female M/D,None,2,Building society,29,Own,1,Skilled,1,Registered,No,bad
+No Acc,9,Existing paid,New Car,3577,100-500 DM,1-4 Years,1,Male M/D,Guarantor,2,Real Estate,26,Rent,1,Skilled,2,None,Yes,good
+No Acc,24,Dues Remain,Old Car,5804,>1000 DM,1-4 Years,4,Male M/D,None,2,Real Estate,27,Own,2,Skilled,1,None,No,good
+No Acc,18,Delayed,Business,2169,< 100 DM ,1-4 Years,4,Male S,None,2,Others,28,Own,1,Skilled,1,Registered,No,bad
+< 0 DM,24,Existing paid,Television,2439,< 100 DM ,1 Year,4,Female M/D,None,4,Real Estate,35,Own,1,Skilled,1,Registered,No,bad
+No Acc,27,Dues Remain,Furniture,4526,>1000 DM,1 Year,4,Male M/D,None,2,Real Estate,32,Own,2,Unskilled,2,Registered,No,good
+No Acc,10,Existing paid,Furniture,2210,< 100 DM ,1-4 Years,2,Male M/D,None,2,Real Estate,25,Rent,1,Unskilled,1,None,No,bad
+No Acc,15,Existing paid,Furniture,2221,500-1000 DM,1-4 Years,2,Female M/D,None,4,Others,20,Rent,1,Skilled,1,None,No,good
+< 0 DM,18,Existing paid,Television,2389,< 100 DM ,1 Year,4,Female M/D,None,1,Others,27,Own,1,Skilled,1,None,No,good
+No Acc,12,Dues Remain,Furniture,3331,< 100 DM ,>7 Years,2,Male M/D,None,4,Building society,42,Own,1,Skilled,1,None,No,good
+No Acc,36,Existing paid,Business,7409,Unknown,>7 Years,3,Male M/D,None,2,Building society,37,Own,2,Skilled,1,None,No,good
+< 0 DM,12,Existing paid,Furniture,652,< 100 DM ,>7 Years,4,Female M/D,None,4,Building society,24,Rent,1,Skilled,1,None,No,good
+No Acc,36,Delayed,Furniture,7678,500-1000 DM,4-7 Years,2,Female M/D,None,4,Others,40,Own,2,Skilled,1,Registered,No,good
+>= 200 DM,6,Dues Remain,New Car,1343,< 100 DM ,>7 Years,1,Male M/D,None,4,Real Estate,46,Own,2,Skilled,2,None,Yes,good
+< 0 DM,24,Dues Remain,Business,1382,100-500 DM,4-7 Years,4,Male M/D,None,1,Real Estate,26,Own,2,Skilled,1,Registered,No,good
+No Acc,15,Existing paid,Appliance,874,Unknown,1 Year,4,Female M/D,None,1,Real Estate,24,Own,1,Skilled,1,None,No,good
+< 0 DM,12,Existing paid,Furniture,3590,< 100 DM ,1-4 Years,2,Male M/D,Co-app,2,Building society,29,Own,1,Unskilled,2,None,No,good
+0 <= ... < 200 DM,11,Dues Remain,New Car,1322,>1000 DM,1-4 Years,4,Female M/D,None,4,Others,40,Own,2,Skilled,1,None,No,good
+< 0 DM,18,Bank paid,Television,1940,< 100 DM ,1 Year,3,Male M/D,Co-app,4,Unknown,36,Free,1,Highly Qualified,1,Registered,No,good
+No Acc,36,Existing paid,Television,3595,< 100 DM ,>7 Years,4,Male M/D,None,2,Others,28,Own,1,Skilled,1,None,No,good
+< 0 DM,9,Existing paid,New Car,1422,< 100 DM ,1 Year,3,Male M/D,None,2,Unknown,27,Free,1,Highly Qualified,1,Registered,No,bad
+No Acc,30,Dues Remain,Television,6742,Unknown,4-7 Years,2,Male M/D,None,3,Building society,36,Own,2,Skilled,1,None,No,good
+No Acc,24,Existing paid,Old Car,7814,< 100 DM ,4-7 Years,3,Male M/D,None,3,Others,38,Own,1,Highly Qualified,1,Registered,No,good
+No Acc,24,Existing paid,Old Car,9277,Unknown,1-4 Years,2,Female S,None,4,Unknown,48,Free,1,Skilled,1,Registered,No,good
+0 <= ... < 200 DM,30,Dues Remain,New Car,2181,Unknown,>7 Years,4,Male M/D,None,4,Real Estate,36,Own,2,Skilled,1,None,No,good
+No Acc,18,Dues Remain,Television,1098,< 100 DM ,Unemployed,4,Female M/D,None,4,Others,65,Own,2,Unemployed,1,None,No,good
+0 <= ... < 200 DM,24,Existing paid,Furniture,4057,< 100 DM ,4-7 Years,3,Female S,None,3,Others,43,Own,1,Skilled,1,Registered,No,bad
+< 0 DM,12,Existing paid,Education,795,< 100 DM ,1 Year,4,Female M/D,None,4,Building society,53,Own,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,24,Dues Remain,Business,2825,Unknown,4-7 Years,4,Male M/D,None,3,Unknown,34,Own,2,Skilled,2,Registered,No,good
+0 <= ... < 200 DM,48,Existing paid,Business,15672,< 100 DM ,1-4 Years,2,Male M/D,None,2,Others,23,Own,1,Skilled,1,Registered,No,bad
+No Acc,36,Dues Remain,New Car,6614,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,34,Own,2,Highly Qualified,1,Registered,No,good
+No Acc,28,Bank paid,Old Car,7824,Unknown,1 Year,3,Male M/D,Guarantor,4,Real Estate,40,Rent,2,Skilled,2,Registered,No,good
+< 0 DM,27,Dues Remain,Business,2442,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,43,Own,4,Highly Qualified,2,Registered,No,good
+No Acc,15,Dues Remain,Television,1829,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,46,Own,2,Skilled,1,Registered,No,good
+< 0 DM,12,Dues Remain,New Car,2171,< 100 DM ,1-4 Years,4,Male M/D,None,4,Building society,38,Own,2,Unskilled,1,None,Yes,good
+0 <= ... < 200 DM,36,Dues Remain,Old Car,5800,< 100 DM ,1-4 Years,3,Male M/D,None,4,Others,34,Own,2,Skilled,1,Registered,No,good
+No Acc,18,Dues Remain,Television,1169,Unknown,1-4 Years,4,Male M/D,None,3,Building society,29,Own,2,Skilled,1,Registered,No,good
+No Acc,36,Delayed,Old Car,8947,Unknown,4-7 Years,3,Male M/D,None,2,Others,31,Own,1,Highly Qualified,2,Registered,No,good
+< 0 DM,21,Existing paid,Television,2606,< 100 DM ,1 Year,4,Female M/D,None,4,Building society,28,Rent,1,Highly Qualified,1,Registered,No,good
+No Acc,12,Dues Remain,Furniture,1592,>1000 DM,4-7 Years,3,Female M/D,None,2,Building society,35,Own,1,Skilled,1,None,Yes,good
+No Acc,15,Existing paid,Furniture,2186,Unknown,4-7 Years,1,Female M/D,None,4,Real Estate,33,Rent,1,Unskilled,1,None,No,good
+< 0 DM,18,Existing paid,Furniture,4153,< 100 DM ,1-4 Years,2,Male M/D,Co-app,3,Others,42,Own,1,Skilled,1,None,No,bad
+< 0 DM,16,Dues Remain,New Car,2625,< 100 DM ,>7 Years,2,Male M/D,Guarantor,4,Building society,43,Rent,1,Skilled,1,Registered,No,bad
+No Acc,20,Dues Remain,New Car,3485,Unknown,1 Year,2,Female S,None,4,Real Estate,44,Own,2,Skilled,1,Registered,No,good
+No Acc,36,Dues Remain,Old Car,10477,Unknown,>7 Years,2,Male M/D,None,4,Unknown,42,Free,2,Skilled,1,None,No,good
+No Acc,15,Existing paid,Television,1386,Unknown,1-4 Years,4,Male S,None,2,Real Estate,40,Rent,1,Skilled,1,Registered,No,good
+No Acc,24,Existing paid,Television,1278,< 100 DM ,>7 Years,4,Male M/D,None,1,Real Estate,36,Own,1,Highly Qualified,1,Registered,No,good
+< 0 DM,12,Existing paid,Television,1107,< 100 DM ,1-4 Years,2,Male M/D,None,2,Real Estate,20,Rent,1,Highly Qualified,2,Registered,No,good
+< 0 DM,21,Existing paid,New Car,3763,Unknown,4-7 Years,2,Male M/D,Co-app,2,Real Estate,24,Own,1,Unskilled,1,None,Yes,good
+0 <= ... < 200 DM,36,Existing paid,Education,3711,Unknown,1-4 Years,2,Male S,None,2,Others,27,Own,1,Skilled,1,None,No,good
+No Acc,15,Delayed,Old Car,3594,< 100 DM ,1 Year,1,Female M/D,None,2,Building society,46,Own,2,Unskilled,1,None,No,good
+0 <= ... < 200 DM,9,Existing paid,New Car,3195,Unknown,1-4 Years,1,Female M/D,None,2,Real Estate,33,Own,1,Unskilled,1,None,No,good
+No Acc,36,Delayed,Television,4454,< 100 DM ,1-4 Years,4,Female M/D,None,4,Real Estate,34,Own,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,24,Dues Remain,Furniture,4736,< 100 DM ,1 Year,2,Female M/D,None,4,Others,25,Own,1,Unskilled,1,None,No,bad
+0 <= ... < 200 DM,30,Existing paid,Television,2991,Unknown,>7 Years,2,Female M/D,None,4,Others,25,Own,1,Skilled,1,None,No,good
+No Acc,11,Existing paid,Business,2142,>1000 DM,>7 Years,1,Female S,None,2,Real Estate,28,Own,1,Skilled,1,Registered,No,good
+< 0 DM,24,Bank paid,Business,3161,< 100 DM ,1-4 Years,4,Male M/D,None,2,Building society,31,Rent,1,Skilled,1,Registered,No,bad
+0 <= ... < 200 DM,48,All Paid,Others,18424,< 100 DM ,1-4 Years,1,Female M/D,None,2,Building society,32,Own,1,Highly Qualified,1,Registered,Yes,bad
+No Acc,10,Existing paid,Old Car,2848,100-500 DM,1-4 Years,1,Male M/D,Co-app,2,Real Estate,32,Own,1,Skilled,2,None,No,good
+< 0 DM,6,Existing paid,New Car,14896,< 100 DM ,>7 Years,1,Male M/D,None,4,Unknown,68,Own,1,Highly Qualified,1,Registered,No,bad
+< 0 DM,24,Existing paid,Furniture,2359,100-500 DM,Unemployed,1,Female S,None,1,Building society,33,Own,1,Skilled,1,None,No,bad
+< 0 DM,24,Existing paid,Furniture,3345,< 100 DM ,>7 Years,4,Male M/D,None,2,Building society,39,Rent,1,Highly Qualified,1,Registered,No,bad
+No Acc,18,Dues Remain,Furniture,1817,< 100 DM ,1-4 Years,4,Female M/D,None,2,Unknown,28,Own,2,Skilled,1,None,No,good
+No Acc,48,Delayed,Television,12749,500-1000 DM,4-7 Years,4,Male M/D,None,1,Others,37,Own,1,Highly Qualified,1,Registered,No,good
+< 0 DM,9,Existing paid,Television,1366,< 100 DM ,1 Year,3,Female M/D,None,4,Building society,22,Rent,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,12,Existing paid,New Car,2002,< 100 DM ,4-7 Years,3,Male M/D,None,4,Building society,30,Rent,1,Skilled,2,Registered,No,good
+< 0 DM,24,Bank paid,Furniture,6872,< 100 DM ,1 Year,2,Female S,None,1,Building society,55,Own,1,Skilled,1,Registered,No,bad
+< 0 DM,12,Bank paid,New Car,697,< 100 DM ,1 Year,4,Male M/D,None,2,Others,46,Own,2,Skilled,1,Registered,No,bad
+< 0 DM,18,Dues Remain,Furniture,1049,< 100 DM ,1 Year,4,Female M/D,None,4,Building society,21,Rent,1,Skilled,1,None,No,good
+< 0 DM,48,Existing paid,Old Car,10297,< 100 DM ,4-7 Years,4,Male M/D,None,4,Unknown,39,Free,3,Skilled,2,Registered,No,bad
+No Acc,30,Existing paid,Television,1867,Unknown,>7 Years,4,Male M/D,None,4,Others,58,Own,1,Skilled,1,Registered,No,good
+< 0 DM,12,Delayed,New Car,1344,< 100 DM ,1-4 Years,4,Male M/D,None,2,Real Estate,43,Own,2,Unskilled,2,None,No,good
+< 0 DM,24,Existing paid,Furniture,1747,< 100 DM ,1 Year,4,Male M/D,Co-app,1,Building society,24,Own,1,Unskilled,1,None,Yes,good
+0 <= ... < 200 DM,9,Existing paid,Television,1670,< 100 DM ,1 Year,4,Female M/D,None,2,Others,22,Own,1,Skilled,1,Registered,No,bad
+No Acc,9,Dues Remain,New Car,1224,< 100 DM ,1-4 Years,3,Male M/D,None,1,Real Estate,30,Own,2,Skilled,1,None,No,good
+No Acc,12,Dues Remain,Television,522,500-1000 DM,>7 Years,4,Male M/D,None,4,Building society,42,Own,2,Skilled,2,Registered,No,good
+< 0 DM,12,Existing paid,Television,1498,< 100 DM ,1-4 Years,4,Female M/D,None,1,Others,23,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,30,Delayed,Television,1919,100-500 DM,1 Year,4,Male M/D,None,3,Unknown,30,Own,2,Highly Qualified,1,None,No,bad
+>= 200 DM,9,Existing paid,Television,745,< 100 DM ,1-4 Years,3,Female M/D,None,2,Real Estate,28,Own,1,Unskilled,1,None,No,bad
+0 <= ... < 200 DM,6,Existing paid,Television,2063,< 100 DM ,1 Year,4,Male S,None,3,Others,30,Rent,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,60,Existing paid,Education,6288,< 100 DM ,1-4 Years,4,Male M/D,None,4,Unknown,42,Free,1,Skilled,1,None,No,bad
+No Acc,24,Dues Remain,Old Car,6842,Unknown,1-4 Years,2,Male M/D,None,4,Building society,46,Own,2,Highly Qualified,2,Registered,No,good
+No Acc,12,Existing paid,New Car,3527,Unknown,1 Year,2,Male M/D,None,3,Building society,45,Own,1,Highly Qualified,2,Registered,No,good
+No Acc,10,Existing paid,New Car,1546,< 100 DM ,1-4 Years,3,Male M/D,None,2,Real Estate,31,Own,1,Unskilled,2,None,Yes,good
+No Acc,24,Existing paid,Furniture,929,Unknown,4-7 Years,4,Male M/D,None,2,Others,31,Own,1,Skilled,1,Registered,No,good
+No Acc,4,Dues Remain,New Car,1455,< 100 DM ,4-7 Years,2,Male M/D,None,1,Real Estate,42,Own,3,Unskilled,2,None,No,good
+< 0 DM,15,Existing paid,Furniture,1845,< 100 DM ,1 Year,4,Female M/D,Guarantor,1,Building society,46,Rent,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,48,All Paid,New Car,8358,500-1000 DM,1 Year,1,Female M/D,None,1,Others,30,Own,2,Skilled,1,None,No,good
+< 0 DM,24,Bank paid,Furniture,3349,500-1000 DM,1 Year,4,Male M/D,None,4,Unknown,30,Free,1,Skilled,2,Registered,No,bad
+No Acc,12,Existing paid,New Car,2859,Unknown,Unemployed,4,Male M/D,None,4,Unknown,38,Own,1,Highly Qualified,1,Registered,No,good
+No Acc,18,Existing paid,Furniture,1533,< 100 DM ,1 Year,4,Male S,Co-app,1,Building society,43,Own,1,Unskilled,2,None,No,bad
+No Acc,24,Existing paid,Television,3621,100-500 DM,>7 Years,2,Male M/D,None,4,Others,31,Own,2,Skilled,1,None,No,bad
+0 <= ... < 200 DM,18,Dues Remain,Business,3590,< 100 DM ,Unemployed,3,Male S,None,3,Others,40,Own,3,Unemployed,2,Registered,No,good
+< 0 DM,36,Delayed,Business,2145,< 100 DM ,4-7 Years,2,Male M/D,None,1,Others,24,Own,2,Skilled,1,Registered,No,bad
+0 <= ... < 200 DM,24,Existing paid,Old Car,4113,500-1000 DM,1 Year,3,Female M/D,None,4,Others,28,Rent,1,Skilled,1,None,No,bad
+No Acc,36,Existing paid,Furniture,10974,< 100 DM ,Unemployed,4,Female M/D,None,2,Others,26,Own,2,Highly Qualified,1,Registered,No,bad
+< 0 DM,12,Existing paid,New Car,1893,< 100 DM ,1-4 Years,4,Female M/D,Guarantor,4,Building society,29,Own,1,Skilled,1,Registered,No,good
+< 0 DM,24,Dues Remain,Television,1231,>1000 DM,>7 Years,4,Female M/D,None,4,Building society,57,Rent,2,Highly Qualified,1,Registered,No,good
+>= 200 DM,30,Dues Remain,Television,3656,Unknown,>7 Years,4,Male M/D,None,4,Building society,49,Own,2,Unskilled,1,None,No,good
+0 <= ... < 200 DM,9,Dues Remain,Television,1154,< 100 DM ,>7 Years,2,Male M/D,None,4,Real Estate,37,Own,3,Unskilled,1,None,No,good
+< 0 DM,28,Existing paid,New Car,4006,< 100 DM ,1-4 Years,3,Male M/D,None,2,Others,45,Own,1,Unskilled,1,None,No,bad
+0 <= ... < 200 DM,24,Existing paid,Furniture,3069,100-500 DM,>7 Years,4,Male M/D,None,4,Unknown,30,Free,1,Skilled,1,None,No,good
+No Acc,6,Dues Remain,Television,1740,< 100 DM ,>7 Years,2,Male S,None,2,Real Estate,30,Rent,2,Skilled,1,None,No,good
+0 <= ... < 200 DM,21,Delayed,New Car,2353,< 100 DM ,1-4 Years,1,Female S,None,4,Building society,47,Own,2,Skilled,1,None,No,good
+No Acc,15,Existing paid,New Car,3556,Unknown,1-4 Years,3,Male M/D,None,2,Unknown,29,Own,1,Skilled,1,None,No,good
+No Acc,24,Existing paid,Television,2397,500-1000 DM,>7 Years,3,Male M/D,None,2,Others,35,Own,2,Skilled,1,Registered,No,bad
+0 <= ... < 200 DM,6,Existing paid,Repairs,454,< 100 DM ,1 Year,3,Male S,None,1,Building society,22,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,30,Existing paid,Television,1715,Unknown,1-4 Years,4,Female M/D,None,1,Others,26,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,27,Dues Remain,Television,2520,500-1000 DM,1-4 Years,4,Male M/D,None,2,Building society,23,Own,2,Unskilled,1,None,No,bad
+No Acc,15,Existing paid,Television,3568,< 100 DM ,>7 Years,4,Female M/D,None,2,Others,54,Rent,1,Highly Qualified,1,Registered,No,good
+No Acc,42,Existing paid,Television,7166,Unknown,4-7 Years,2,Male S,None,4,Building society,29,Rent,1,Skilled,1,Registered,No,good
+< 0 DM,11,Dues Remain,New Car,3939,< 100 DM ,1-4 Years,1,Male M/D,None,2,Real Estate,40,Own,2,Unskilled,2,None,No,good
+0 <= ... < 200 DM,15,Existing paid,Repairs,1514,100-500 DM,1-4 Years,4,Male M/D,Guarantor,2,Real Estate,22,Own,1,Skilled,1,None,No,good
+No Acc,24,Existing paid,New Car,7393,< 100 DM ,1-4 Years,1,Male M/D,None,4,Building society,43,Own,1,Unskilled,2,None,No,good
+< 0 DM,24,Bank paid,New Car,1193,< 100 DM ,Unemployed,1,Female M/D,Co-app,4,Unknown,29,Rent,2,Unemployed,1,None,No,bad
+< 0 DM,60,Existing paid,Business,7297,< 100 DM ,>7 Years,4,Male M/D,Co-app,4,Unknown,36,Rent,1,Skilled,1,None,No,bad
+No Acc,30,Dues Remain,Television,2831,< 100 DM ,1-4 Years,4,Female M/D,None,2,Others,33,Own,1,Skilled,1,Registered,No,good
+>= 200 DM,24,Existing paid,Television,1258,500-1000 DM,1-4 Years,3,Female M/D,None,3,Others,57,Own,1,Unskilled,1,None,No,good
+0 <= ... < 200 DM,6,Existing paid,Television,753,< 100 DM ,1-4 Years,2,Female M/D,Guarantor,3,Real Estate,64,Own,1,Skilled,1,None,No,good
+0 <= ... < 200 DM,18,Delayed,Business,2427,Unknown,>7 Years,4,Male M/D,None,2,Building society,42,Own,2,Skilled,1,None,No,good
+No Acc,24,Delayed,New Car,2538,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,47,Own,2,Unskilled,2,None,No,bad
+0 <= ... < 200 DM,15,Bank paid,New Car,1264,100-500 DM,1-4 Years,2,Male S,None,2,Building society,25,Rent,1,Skilled,1,None,No,bad
+0 <= ... < 200 DM,30,Dues Remain,Furniture,8386,< 100 DM ,4-7 Years,2,Male M/D,None,2,Building society,49,Own,1,Skilled,1,None,No,bad
+No Acc,48,Existing paid,Business,4844,< 100 DM ,Unemployed,3,Male M/D,None,2,Others,33,Rent,1,Highly Qualified,1,Registered,No,bad
+>= 200 DM,21,Existing paid,New Car,2923,100-500 DM,1-4 Years,1,Female M/D,None,1,Others,28,Own,1,Highly Qualified,1,Registered,No,good
+< 0 DM,36,Existing paid,Old Car,8229,< 100 DM ,1-4 Years,2,Male M/D,None,2,Building society,26,Own,1,Skilled,2,None,No,bad
+No Acc,24,Dues Remain,Furniture,2028,< 100 DM ,4-7 Years,2,Male M/D,None,2,Building society,30,Own,2,Unskilled,1,None,No,good
+< 0 DM,15,Dues Remain,Furniture,1433,< 100 DM ,1-4 Years,4,Female M/D,None,3,Building society,25,Rent,2,Skilled,1,None,No,good
+>= 200 DM,42,All Paid,Business,6289,< 100 DM ,1 Year,2,Female S,None,1,Building society,33,Own,2,Skilled,1,None,No,good
+No Acc,13,Existing paid,Television,1409,100-500 DM,Unemployed,2,Female M/D,None,4,Real Estate,64,Own,1,Skilled,1,None,No,good
+< 0 DM,24,Existing paid,Old Car,6579,< 100 DM ,Unemployed,4,Male M/D,None,2,Unknown,29,Free,1,Highly Qualified,1,Registered,No,good
+0 <= ... < 200 DM,24,Dues Remain,Television,1743,< 100 DM ,>7 Years,4,Male M/D,None,2,Building society,48,Own,2,Unskilled,1,None,No,good
+No Acc,12,Dues Remain,Education,3565,Unknown,1 Year,2,Male M/D,None,1,Building society,37,Own,2,Unskilled,2,None,No,good
+No Acc,15,Bank paid,Television,1569,100-500 DM,>7 Years,4,Male M/D,None,4,Others,34,Own,1,Unskilled,2,None,No,good
+< 0 DM,18,Existing paid,Television,1936,Unknown,4-7 Years,2,Male S,None,4,Others,23,Rent,2,Unskilled,1,None,No,good
+< 0 DM,36,Existing paid,Furniture,3959,< 100 DM ,Unemployed,4,Male M/D,None,3,Building society,30,Own,1,Highly Qualified,1,Registered,No,good
+No Acc,12,Existing paid,New Car,2390,Unknown,>7 Years,4,Male M/D,None,3,Others,50,Own,1,Skilled,1,Registered,No,good
+No Acc,12,Existing paid,Furniture,1736,< 100 DM ,4-7 Years,3,Female M/D,None,4,Real Estate,31,Own,1,Unskilled,1,None,No,good
+< 0 DM,30,Existing paid,Old Car,3857,< 100 DM ,1-4 Years,4,Female S,None,4,Building society,40,Own,1,Highly Qualified,1,Registered,No,good
+No Acc,12,Existing paid,Television,804,< 100 DM ,>7 Years,4,Male M/D,None,4,Others,38,Own,1,Skilled,1,None,No,good
+< 0 DM,45,Existing paid,Television,1845,< 100 DM ,1-4 Years,4,Male M/D,None,4,Unknown,23,Free,1,Skilled,1,Registered,No,bad
+0 <= ... < 200 DM,45,Dues Remain,Old Car,4576,100-500 DM,Unemployed,3,Male M/D,None,4,Others,27,Own,1,Skilled,1,None,No,good

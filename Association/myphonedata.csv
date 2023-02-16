@@ -1,0 +1,12 @@
+"V1","V2","V3","red","white","green","yellow","orange","blue"
+"red","white","green",1,1,1,0,0,0
+"white","orange","",0,1,0,0,1,0
+"white","blue","",0,1,0,0,0,1
+"red","white","orange",1,1,0,0,1,0
+"red","blue","",1,0,0,0,0,1
+"white","blue","",0,1,0,0,0,1
+"red","blue","",1,0,0,0,0,1
+"red","white","blue",1,1,0,0,0,1
+"green","","",0,0,1,0,0,0
+"red","white","blue",1,1,0,0,0,1
+"yellow","","",0,0,0,1,0,0
